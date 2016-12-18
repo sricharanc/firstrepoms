@@ -1,0 +1,72 @@
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\bin\Debug\FLS Measurement ToolKit.exe.config
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\bin\Debug\FLS Measurement ToolKit.exe.manifest
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\bin\Debug\FLS Measurement ToolKit.application
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\bin\Debug\FLS Measurement ToolKit.exe
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\bin\Debug\FLS Measurement ToolKit.pdb
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\bin\Debug\MahApps.Metro.dll
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\bin\Debug\System.Windows.Interactivity.dll
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\bin\Debug\MahApps.Metro.pdb
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\bin\Debug\MahApps.Metro.xml
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\MainWindow.g.cs
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\App.g.cs
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\FLS Measurement ToolKit_MarkupCompile.cache
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\FLS Measurement ToolKit_MarkupCompile.lref
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\App.baml
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\MainWindow.baml
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\FLS Measurement ToolKit.g.resources
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\FLS_Measurement_ToolKit.Properties.Resources.resources
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\FLS_Measurement_ToolKit.Resource.resources
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\FLS Measurement ToolKit.csproj.GenerateResource.Cache
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\FLS Measurement ToolKit.exe.manifest
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\FLS Measurement ToolKit.application
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\FLS Measurement ToolKit.exe
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\FLS Measurement ToolKit.pdb
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\FLS Measurement ToolKit.csprojResolveAssemblyReference.cache
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\bin\Debug\FLS Measurement ToolKit.exe.config
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\FLS Measurement ToolKit.csprojResolveAssemblyReference.cache
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\AddInfoWindow.g.cs
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\ChannelSensorSelect.g.cs
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\COMPortSelectionWindow.g.cs
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\GearInfoWindow.g.cs
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\MainWindow.g.cs
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\MeasurementSelect.g.cs
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\ReadWriteSerialPort.g.cs
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\App.g.cs
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\FLS Measurement ToolKit_Content.g.cs
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\FLS Measurement ToolKit_MarkupCompile.cache
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\FLS Measurement ToolKit_MarkupCompile.lref
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\bin\Debug\FLS Measurement ToolKit.exe.manifest
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\bin\Debug\FLS Measurement ToolKit.application
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\bin\Debug\FLS Measurement ToolKit.exe
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\bin\Debug\FLS Measurement ToolKit.pdb
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\bin\Debug\HtmlRenderer.dll
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\bin\Debug\HtmlRenderer.PdfSharp.dll
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\bin\Debug\MahApps.Metro.dll
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\bin\Debug\PdfSharp.Charting.dll
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\bin\Debug\PdfSharp.dll
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\bin\Debug\System.Windows.Interactivity.dll
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\bin\Debug\HtmlRenderer.pdb
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\bin\Debug\HtmlRenderer.PdfSharp.pdb
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\bin\Debug\MahApps.Metro.pdb
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\bin\Debug\MahApps.Metro.xml
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\bin\Debug\PdfSharp.xml
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\bin\Debug\PdfSharp.Charting.xml
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\bin\Debug\de\PdfSharp.resources.dll
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\App.baml
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\AddInfoWindow.baml
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\ChannelSensorSelect.baml
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\COMPortSelectionWindow.baml
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\GearInfoWindow.baml
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\MainWindow.baml
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\MeasurementSelect.baml
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\ReadWriteSerialPort.baml
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\FLS Measurement ToolKit.g.resources
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\FLS_Measurement_ToolKit.Properties.Resources.resources
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\FLS_Measurement_ToolKit.Resource.resources
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\FLS Measurement ToolKit.csproj.GenerateResource.Cache
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\FLS Measurement ToolKit.exe.manifest
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\FLS Measurement ToolKit.application
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\FLS Measurement ToolKit.exe
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\obj\Debug\FLS Measurement ToolKit.pdb
+D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\bin\Debug\log4net.dll
