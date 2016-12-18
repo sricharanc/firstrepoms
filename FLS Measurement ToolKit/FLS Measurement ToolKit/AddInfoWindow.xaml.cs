@@ -40,6 +40,7 @@ namespace FLS_Measurement_ToolKit
                 GlobalClass.NoOfbases = tboxNoBases.Text;
                 GlobalClass.ProjectContractNo = tboxProject.Text;
                 this.Close();
+
             }
             else
             {
