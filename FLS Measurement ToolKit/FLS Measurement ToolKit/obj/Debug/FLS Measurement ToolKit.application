@@ -4,17 +4,17 @@
   <description asmv2:publisher="FLS Measurement ToolKit" asmv2:product="FLS Measurement ToolKit" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true" mapFileExtensions="true" />
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
-    <framework targetVersion="4.5.2" profile="Full" supportedRuntime="4.0.30319" />
+    <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="FLS Measurement ToolKit.exe.manifest" size="10063">
+    <dependentAssembly dependencyType="install" codebase="FLS Measurement ToolKit.exe.manifest" size="13988">
       <assemblyIdentity name="FLS Measurement ToolKit.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>XWFxSUj151GayUqxBPuk+0IkKXnh7kCnHzSxvZt8Pug=</dsig:DigestValue>
+        <dsig:DigestValue>+O4CCCd4XVxq+ywnSUa7slwdOOpGV3DBGDNuFwpnH8k=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

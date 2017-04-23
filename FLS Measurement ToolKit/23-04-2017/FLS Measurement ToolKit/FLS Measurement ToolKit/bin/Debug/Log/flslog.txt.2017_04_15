@@ -1,0 +1,360 @@
+2017/07/15 14:07:35,016 INFO  FLS_Measurement_ToolKit.MainWindow [7880] Aplication started... 
+2017/13/15 14:13:04,768 INFO  FLS_Measurement_ToolKit.MainWindow [6176] Aplication started... 
+2017/14/15 14:14:19,686 INFO  FLS_Measurement_ToolKit.MainWindow [1800] Aplication started... 
+2017/34/15 14:34:15,757 INFO  FLS_Measurement_ToolKit.MainWindow [7080] Aplication started... 
+2017/34/15 14:34:29,756 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [7080] Com Port connected with Values COM11 
+2017/34/15 14:34:33,135 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [7080] ChannelSensorSelect Values 1,m12_sensor 
+2017/34/15 14:34:37,427 INFO  FLS_Measurement_ToolKit.MeasurementSelect [7080] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/34/15 14:34:43,522 INFO  FLS_Measurement_ToolKit.AddInfoWindow [7080] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: 1, EquipmentTagNo: 1, Kilnsize: 1, NoOfbases: 1 ,ProjectContractNo: 1  
+2017/34/15 14:34:55,604 INFO  FLS_Measurement_ToolKit.GearInfoWindow [7080] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 1, NoOfteeth: 1, HelixAngle: 1, Directionofrotation: 1, Noofdrive: 1 ,Typeofspringplate: 1, Klinshellthicknessundergear: 1, RotaionType: CLOCKWISE 
+2017/39/15 14:39:38,148 INFO  FLS_Measurement_ToolKit.MainWindow [928] Aplication started... 
+2017/40/15 14:40:04,711 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [928] Com Port connected with Values COM11 
+2017/40/15 14:40:08,649 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [928] ChannelSensorSelect Values 1,m12_sensor 
+2017/40/15 14:40:10,745 INFO  FLS_Measurement_ToolKit.MeasurementSelect [928] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/40/15 14:40:14,395 INFO  FLS_Measurement_ToolKit.AddInfoWindow [928] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: 1, EquipmentTagNo: 1, Kilnsize: 1, NoOfbases: 1 ,ProjectContractNo: 1  
+2017/40/15 14:40:20,693 INFO  FLS_Measurement_ToolKit.GearInfoWindow [928] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 1, NoOfteeth: 1, HelixAngle: 1, Directionofrotation: 1, Noofdrive: 1 ,Typeofspringplate: 1, Klinshellthicknessundergear: 1, RotaionType: CLOCKWISE 
+2017/45/15 14:45:12,445 INFO  FLS_Measurement_ToolKit.MainWindow [10752] Aplication started... 
+2017/46/15 14:46:03,851 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [10752] Com Port connected with Values COM11 
+2017/46/15 14:46:10,442 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [10752] ChannelSensorSelect Values 1,m12_sensor 
+2017/46/15 14:46:17,783 INFO  FLS_Measurement_ToolKit.MeasurementSelect [10752] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 48  
+2017/46/15 14:46:32,688 INFO  FLS_Measurement_ToolKit.AddInfoWindow [10752] MeasurementSelect Values CustomerName: 4848, OEM: 48, Location: 484, EquipmentTagNo: 84, Kilnsize: 84, NoOfbases: 894 ,ProjectContractNo: 984  
+2017/46/15 14:46:41,744 INFO  FLS_Measurement_ToolKit.GearInfoWindow [10752] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 445, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: ANTICLOCKWISE 
+2017/47/15 14:47:02,038 INFO  FLS_Measurement_ToolKit.ReadWriteSerialPort [10752] Unable to Connect 
+2017/47/15 14:47:03,185 ERROR FLS_Measurement_ToolKit.MainWindow [10752] System.IO.IOException: The process cannot access the file 'D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\Resource\NewData1.CSV' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at FLS_Measurement_ToolKit.MainWindow.OnlineImportCsvFileAndDisplayRadialGraph(String filename) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 296 
+2017/49/15 14:49:13,157 INFO  FLS_Measurement_ToolKit.MainWindow [7692] Aplication started... 
+2017/49/15 14:49:30,381 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [7692] Com Port connected with Values COM11 
+2017/49/15 14:49:40,083 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [7692] ChannelSensorSelect Values 2,m30_sensor 
+2017/50/15 14:50:10,143 INFO  FLS_Measurement_ToolKit.MeasurementSelect [7692] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 48  
+2017/50/15 14:50:16,066 INFO  FLS_Measurement_ToolKit.AddInfoWindow [7692] MeasurementSelect Values CustomerName: 5456, OEM: 46546, Location: 48, EquipmentTagNo: 48, Kilnsize: 4, NoOfbases: 84 ,ProjectContractNo: 894  
+2017/50/15 14:50:29,993 INFO  FLS_Measurement_ToolKit.GearInfoWindow [7692] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 545454, Noofdrive: 5456 ,Typeofspringplate: 45, Klinshellthicknessundergear: 45, RotaionType: CLOCKWISE 
+2017/52/15 14:52:57,393 INFO  FLS_Measurement_ToolKit.MainWindow [7176] Aplication started... 
+2017/53/15 14:53:41,519 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [7176] Com Port connected with Values COM11 
+2017/54/15 14:54:08,779 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [7176] ChannelSensorSelect Values 3,m18_sensor 
+2017/54/15 14:54:24,370 INFO  FLS_Measurement_ToolKit.MeasurementSelect [7176] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 48  
+2017/54/15 14:54:31,581 INFO  FLS_Measurement_ToolKit.AddInfoWindow [7176] MeasurementSelect Values CustomerName: 5564, OEM: 545, Location: 45, EquipmentTagNo: 45, Kilnsize: 465, NoOfbases: 46545 ,ProjectContractNo: 54  
+2017/54/15 14:54:47,773 INFO  FLS_Measurement_ToolKit.GearInfoWindow [7176] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 54565, Noofdrive:  ,Typeofspringplate: Q, Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/55/15 14:55:14,878 INFO  FLS_Measurement_ToolKit.ReadWriteSerialPort [7176] Unable to Connect 
+2017/55/15 14:55:19,703 ERROR FLS_Measurement_ToolKit.MainWindow [7176] System.IO.IOException: The process cannot access the file 'D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\Resource\NewData1.CSV' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at FLS_Measurement_ToolKit.MainWindow.OnlineImportCsvFileAndDisplayRadialGraph(String filename) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 296 
+2017/55/15 14:55:27,441 INFO  FLS_Measurement_ToolKit.MainWindow [4988] Aplication started... 
+2017/56/15 14:56:01,159 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4988] Com Port connected with Values COM11 
+2017/56/15 14:56:06,176 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4988] ChannelSensorSelect Values 2,m30_sensor 
+2017/56/15 14:56:13,482 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4988] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 12  
+2017/56/15 14:56:21,040 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4988] MeasurementSelect Values CustomerName: 64545Q4, OEM: 56465, Location: 465, EquipmentTagNo: 465, Kilnsize: 45, NoOfbases: 465 ,ProjectContractNo: 65654  
+2017/56/15 14:56:40,418 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4988] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 6546545, Noofdrive: 54 ,Typeofspringplate: 654, Klinshellthicknessundergear: 564, RotaionType: CLOCKWISE 
+2017/57/15 14:57:08,395 INFO  FLS_Measurement_ToolKit.ReadWriteSerialPort [4988] Unable to Connect 
+2017/57/15 14:57:10,192 ERROR FLS_Measurement_ToolKit.MainWindow [4988] System.IO.IOException: The process cannot access the file 'D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\Resource\NewData1.CSV' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at FLS_Measurement_ToolKit.MainWindow.OnlineImportCsvFileAndDisplayRadialGraph(String filename) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 296 
+2017/05/15 15:05:13,253 INFO  FLS_Measurement_ToolKit.MainWindow [2260] Aplication started... 
+2017/05/15 15:05:26,116 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [2260] Com Port connected with Values COM11 
+2017/05/15 15:05:28,874 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [2260] ChannelSensorSelect Values 1,m12_sensor 
+2017/05/15 15:05:30,464 INFO  FLS_Measurement_ToolKit.MeasurementSelect [2260] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/05/15 15:05:35,615 INFO  FLS_Measurement_ToolKit.AddInfoWindow [2260] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: 1, EquipmentTagNo: 1, Kilnsize: 1, NoOfbases: 11 ,ProjectContractNo: 1  
+2017/05/15 15:05:41,350 INFO  FLS_Measurement_ToolKit.GearInfoWindow [2260] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 1, NoOfteeth: 1, HelixAngle: 1, Directionofrotation: 1, Noofdrive: 1 ,Typeofspringplate: 1, Klinshellthicknessundergear: 1, RotaionType: CLOCKWISE 
+2017/07/15 15:07:54,845 INFO  FLS_Measurement_ToolKit.MainWindow [6984] Aplication started... 
+2017/08/15 15:08:16,351 INFO  FLS_Measurement_ToolKit.MainWindow [6984] Opening CSV Path... 
+2017/08/15 15:08:40,437 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [6984] Com Port unable connect with Values COM11, Exception:System.TimeoutException: The operation has timed out.
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Ports.SerialPort.InternalRead(Char[] buffer, Int32 offset, Int32 count, Int32 timeout, Boolean countMultiByteCharsAsOne)
+   at System.IO.Ports.SerialPort.ReadTo(String value)
+   at System.IO.Ports.SerialPort.ReadLine()
+   at FLS_Measurement_ToolKit.COMPortSelectionWindow.btnOk_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\COMPortSelectionWindow.xaml.cs:line 64   
+2017/09/15 15:09:29,866 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [6984] Com Port connected with Values COM11 
+2017/09/15 15:09:32,851 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [6984] ChannelSensorSelect Values 1,m12_sensor 
+2017/09/15 15:09:34,658 INFO  FLS_Measurement_ToolKit.MeasurementSelect [6984] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/09/15 15:09:37,351 INFO  FLS_Measurement_ToolKit.AddInfoWindow [6984] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/09/15 15:09:40,569 INFO  FLS_Measurement_ToolKit.GearInfoWindow [6984] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/12/15 15:12:25,272 INFO  FLS_Measurement_ToolKit.MainWindow [7608] Aplication started... 
+2017/12/15 15:12:47,800 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [7608] Com Port connected with Values COM11 
+2017/12/15 15:12:50,776 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [7608] ChannelSensorSelect Values 1,m12_sensor 
+2017/12/15 15:12:52,650 INFO  FLS_Measurement_ToolKit.MeasurementSelect [7608] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/12/15 15:12:55,452 INFO  FLS_Measurement_ToolKit.AddInfoWindow [7608] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/12/15 15:12:58,401 INFO  FLS_Measurement_ToolKit.GearInfoWindow [7608] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/20/15 15:20:27,933 INFO  FLS_Measurement_ToolKit.MainWindow [6224] Aplication started... 
+2017/20/15 15:20:45,393 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [6224] Com Port connected with Values COM11 
+2017/20/15 15:20:48,522 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [6224] ChannelSensorSelect Values 1,m12_sensor 
+2017/20/15 15:20:50,159 INFO  FLS_Measurement_ToolKit.MeasurementSelect [6224] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/20/15 15:20:52,825 INFO  FLS_Measurement_ToolKit.AddInfoWindow [6224] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/20/15 15:20:55,275 INFO  FLS_Measurement_ToolKit.GearInfoWindow [6224] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/21/15 15:21:25,806 ERROR FLS_Measurement_ToolKit.MainWindow [6224] System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at FLS_Measurement_ToolKit.MainWindow.OnlineImportCsvFileAndDisplayRadialGraph(String filename) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 302 
+2017/30/15 16:30:36,480 INFO  FLS_Measurement_ToolKit.MainWindow [1100] Aplication started... 
+2017/31/15 16:31:03,258 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [1100] Com Port connected with Values COM11 
+2017/31/15 16:31:08,135 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [1100] ChannelSensorSelect Values 1,m12_sensor 
+2017/31/15 16:31:09,998 INFO  FLS_Measurement_ToolKit.MeasurementSelect [1100] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/31/15 16:31:12,860 INFO  FLS_Measurement_ToolKit.AddInfoWindow [1100] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/31/15 16:31:15,558 INFO  FLS_Measurement_ToolKit.GearInfoWindow [1100] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/23/15 17:23:28,649 INFO  FLS_Measurement_ToolKit.MainWindow [5452] Aplication started... 
+2017/24/15 17:24:04,047 INFO  FLS_Measurement_ToolKit.MainWindow [5452] Opening CSV Path... 
+2017/24/15 17:24:15,765 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [5452] ChannelSensorSelect Values 2,m18_sensor 
+2017/24/15 17:24:24,091 INFO  FLS_Measurement_ToolKit.MeasurementSelect [5452] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 48  
+2017/24/15 17:24:33,317 INFO  FLS_Measurement_ToolKit.GearInfoWindow [5452] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 5, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/34/15 17:34:33,860 INFO  FLS_Measurement_ToolKit.MainWindow [10872] Aplication started... 
+2017/34/15 17:34:37,575 INFO  FLS_Measurement_ToolKit.MainWindow [10872] Opening CSV Path... 
+2017/34/15 17:34:55,238 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [10872] ChannelSensorSelect Values 3,m30_sensor 
+2017/35/15 17:35:05,329 INFO  FLS_Measurement_ToolKit.MeasurementSelect [10872] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 48  
+2017/35/15 17:35:18,339 INFO  FLS_Measurement_ToolKit.GearInfoWindow [10872] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 564, Noofdrive: 8 ,Typeofspringplate: 87, Klinshellthicknessundergear: 9879, RotaionType: CLOCKWISE 
+2017/39/15 17:39:55,383 INFO  FLS_Measurement_ToolKit.MainWindow [10872] Opening CSV Path... 
+2017/40/15 17:40:10,000 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [10872] ChannelSensorSelect Values 2,m30_sensor 
+2017/40/15 17:40:24,186 INFO  FLS_Measurement_ToolKit.MainWindow [9780] Aplication started... 
+2017/41/15 17:41:55,227 INFO  FLS_Measurement_ToolKit.MainWindow [9780] Opening CSV Path... 
+2017/42/15 17:42:06,783 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [9780] ChannelSensorSelect Values 2,m30_sensor 
+2017/42/15 17:42:19,471 INFO  FLS_Measurement_ToolKit.MeasurementSelect [9780] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 48  
+2017/42/15 17:42:33,699 INFO  FLS_Measurement_ToolKit.GearInfoWindow [9780] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 5988, Noofdrive: 8 ,Typeofspringplate: 87, Klinshellthicknessundergear: 798, RotaionType: CLOCKWISE 
+2017/44/15 17:44:45,437 INFO  FLS_Measurement_ToolKit.MainWindow [7624] Aplication started... 
+2017/45/15 17:45:45,683 INFO  FLS_Measurement_ToolKit.MainWindow [7624] Opening CSV Path... 
+2017/45/15 17:45:56,646 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [7624] ChannelSensorSelect Values 2,m30_sensor 
+2017/46/15 17:46:03,528 INFO  FLS_Measurement_ToolKit.MeasurementSelect [7624] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 48  
+2017/46/15 17:46:14,026 INFO  FLS_Measurement_ToolKit.GearInfoWindow [7624] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 15, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/47/15 17:47:58,600 INFO  FLS_Measurement_ToolKit.MainWindow [3868] Aplication started... 
+2017/49/15 17:49:07,434 INFO  FLS_Measurement_ToolKit.MainWindow [3868] Opening CSV Path... 
+2017/49/15 17:49:17,576 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [3868] ChannelSensorSelect Values 2,m30_sensor 
+2017/49/15 17:49:29,190 INFO  FLS_Measurement_ToolKit.MeasurementSelect [3868] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 48  
+2017/49/15 17:49:42,115 INFO  FLS_Measurement_ToolKit.GearInfoWindow [3868] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 5465465465, Noofdrive: 4654 ,Typeofspringplate: 654, Klinshellthicknessundergear: 65465, RotaionType: CLOCKWISE 
+2017/50/15 17:50:43,048 ERROR FLS_Measurement_ToolKit.MainWindow [3868] System.IndexOutOfRangeException: Cannot find column 2.
+   at System.Data.DataColumnCollection.get_Item(Int32 index)
+   at System.Data.DataRow.get_Item(Int32 columnIndex)
+   at FLS_Measurement_ToolKit.MainWindow.ConvertingToDistanceValue(DataTable ScensorValueTable) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 1096 
+2017/53/15 17:53:15,918 INFO  FLS_Measurement_ToolKit.MainWindow [3624] Aplication started... 
+2017/53/15 17:53:19,483 INFO  FLS_Measurement_ToolKit.MainWindow [3624] Opening CSV Path... 
+2017/53/15 17:53:31,459 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [3624] ChannelSensorSelect Values 2,m18_sensor 
+2017/53/15 17:53:37,811 INFO  FLS_Measurement_ToolKit.MeasurementSelect [3624] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 48  
+2017/53/15 17:53:52,007 INFO  FLS_Measurement_ToolKit.GearInfoWindow [3624] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 48, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/56/15 17:56:31,699 INFO  FLS_Measurement_ToolKit.MainWindow [10192] Aplication started... 
+2017/57/15 17:57:09,931 INFO  FLS_Measurement_ToolKit.MainWindow [10192] Opening CSV Path... 
+2017/57/15 17:57:18,116 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [10192] ChannelSensorSelect Values 2,m30_sensor 
+2017/57/15 17:57:25,841 INFO  FLS_Measurement_ToolKit.MeasurementSelect [10192] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 48  
+2017/58/15 17:58:14,626 INFO  FLS_Measurement_ToolKit.GearInfoWindow [10192] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 15, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/03/15 18:03:45,183 INFO  FLS_Measurement_ToolKit.MainWindow [1144] Aplication started... 
+2017/03/15 18:03:48,435 INFO  FLS_Measurement_ToolKit.MainWindow [1144] Opening CSV Path... 
+2017/05/15 18:05:26,125 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [1144] ChannelSensorSelect Values 3,m30_sensor 
+2017/06/15 18:06:12,216 INFO  FLS_Measurement_ToolKit.MeasurementSelect [1144] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 48  
+2017/06/15 18:06:23,816 INFO  FLS_Measurement_ToolKit.GearInfoWindow [1144] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 45, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/30/15 18:30:49,799 INFO  FLS_Measurement_ToolKit.MainWindow [10160] Aplication started... 
+2017/31/15 18:31:09,085 INFO  FLS_Measurement_ToolKit.MainWindow [3480] Aplication started... 
+2017/31/15 18:31:19,562 INFO  FLS_Measurement_ToolKit.MainWindow [9108] Aplication started... 
+2017/31/15 18:31:29,200 INFO  FLS_Measurement_ToolKit.MainWindow [9108] Opening CSV Path... 
+2017/31/15 18:31:50,894 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [9108] ChannelSensorSelect Values 3,rectangular_sensor 
+2017/31/15 18:31:55,704 INFO  FLS_Measurement_ToolKit.MeasurementSelect [9108] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 48  
+2017/32/15 18:32:07,233 INFO  FLS_Measurement_ToolKit.GearInfoWindow [9108] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 64654548, Noofdrive: 484 ,Typeofspringplate: 984, Klinshellthicknessundergear: 848, RotaionType: CLOCKWISE 
+2017/33/15 18:33:51,437 INFO  FLS_Measurement_ToolKit.MainWindow [10484] Aplication started... 
+2017/34/15 18:34:01,897 INFO  FLS_Measurement_ToolKit.MainWindow [10484] Opening CSV Path... 
+2017/34/15 18:34:08,273 INFO  FLS_Measurement_ToolKit.MainWindow [10484] Opening CSV Path... 
+2017/34/15 18:34:19,324 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [10484] ChannelSensorSelect Values 3,m18_sensor 
+2017/34/15 18:34:28,307 INFO  FLS_Measurement_ToolKit.MeasurementSelect [10484] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 48  
+2017/34/15 18:34:41,849 INFO  FLS_Measurement_ToolKit.GearInfoWindow [10484] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 6654, Noofdrive: 554655 ,Typeofspringplate: 5, Klinshellthicknessundergear: 4564, RotaionType: CLOCKWISE 
+2017/36/15 18:36:00,575 ERROR FLS_Measurement_ToolKit.MainWindow [10484] System.IndexOutOfRangeException: Cannot find column 2.
+   at System.Data.DataColumnCollection.get_Item(Int32 index)
+   at System.Data.DataRow.get_Item(Int32 columnIndex)
+   at FLS_Measurement_ToolKit.MainWindow.<>c__DisplayClass14_0.<ComputeGraphPlotingValue>b__4(DataRow x) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 699
+   at System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   at System.Linq.Enumerable.Count[TSource](IEnumerable`1 source)
+   at FLS_Measurement_ToolKit.MainWindow.ComputeGraphPlotingValue(DataTable ScensorValueTable, String& maxScensorValue, String& minScensorValue) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 699 
+2017/36/15 18:36:07,434 ERROR FLS_Measurement_ToolKit.MainWindow [10484] System.ArgumentOutOfRangeException: StartIndex cannot be less than zero.
+Parameter name: startIndex
+   at System.String.Remove(Int32 startIndex)
+   at FLS_Measurement_ToolKit.MainWindow.OnlineImportCsvFileAndDisplayRadialGraph(String filename) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 380 
+2017/36/15 18:36:54,251 INFO  FLS_Measurement_ToolKit.MainWindow [1640] Aplication started... 
+2017/36/15 18:36:59,495 INFO  FLS_Measurement_ToolKit.MainWindow [1640] Opening CSV Path... 
+2017/37/15 18:37:09,159 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [1640] ChannelSensorSelect Values 1,m30_sensor 
+2017/37/15 18:37:17,433 INFO  FLS_Measurement_ToolKit.MeasurementSelect [1640] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 48  
+2017/37/15 18:37:31,367 INFO  FLS_Measurement_ToolKit.GearInfoWindow [1640] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 4, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/37/15 18:37:47,248 ERROR FLS_Measurement_ToolKit.MainWindow [1640] System.IndexOutOfRangeException: Cannot find column 2.
+   at System.Data.DataColumnCollection.get_Item(Int32 index)
+   at System.Data.DataRow.get_Item(Int32 columnIndex)
+   at FLS_Measurement_ToolKit.MainWindow.<>c__DisplayClass14_0.<ComputeGraphPlotingValue>b__4(DataRow x) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 612
+   at System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   at System.Linq.Enumerable.Count[TSource](IEnumerable`1 source)
+   at FLS_Measurement_ToolKit.MainWindow.ComputeGraphPlotingValue(DataTable ScensorValueTable, String& maxScensorValue, String& minScensorValue) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 612 
+2017/40/15 18:40:43,270 INFO  FLS_Measurement_ToolKit.MainWindow [4712] Aplication started... 
+2017/40/15 18:40:45,698 INFO  FLS_Measurement_ToolKit.MainWindow [4712] Opening CSV Path... 
+2017/40/15 18:40:53,319 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4712] ChannelSensorSelect Values 2,m30_sensor 
+2017/41/15 18:41:02,364 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4712] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 48  
+2017/41/15 18:41:15,132 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4712] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 45, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/41/15 18:41:41,391 ERROR FLS_Measurement_ToolKit.MainWindow [4712] System.IndexOutOfRangeException: Cannot find column 2.
+   at System.Data.DataColumnCollection.get_Item(Int32 index)
+   at System.Data.DataRow.get_Item(Int32 columnIndex)
+   at FLS_Measurement_ToolKit.MainWindow.<>c__DisplayClass14_0.<ComputeGraphPlotingValue>b__4(DataRow x) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 612
+   at System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   at System.Linq.Enumerable.Count[TSource](IEnumerable`1 source)
+   at FLS_Measurement_ToolKit.MainWindow.ComputeGraphPlotingValue(DataTable ScensorValueTable, String& maxScensorValue, String& minScensorValue) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 612 
+2017/41/15 18:41:41,403 ERROR FLS_Measurement_ToolKit.MainWindow [4712] System.ArgumentOutOfRangeException: StartIndex cannot be less than zero.
+Parameter name: startIndex
+   at System.String.Remove(Int32 startIndex)
+   at FLS_Measurement_ToolKit.MainWindow.OnlineImportCsvFileAndDisplayRadialGraph(String filename) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 380 
+2017/42/15 18:42:43,646 INFO  FLS_Measurement_ToolKit.MainWindow [10980] Aplication started... 
+2017/43/15 18:43:11,041 INFO  FLS_Measurement_ToolKit.MainWindow [10980] Opening CSV Path... 
+2017/43/15 18:43:21,026 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [10980] ChannelSensorSelect Values 3,rectangular_sensor 
+2017/43/15 18:43:26,703 INFO  FLS_Measurement_ToolKit.MeasurementSelect [10980] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 48  
+2017/43/15 18:43:37,627 INFO  FLS_Measurement_ToolKit.GearInfoWindow [10980] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 54, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/43/15 18:43:37,736 ERROR FLS_Measurement_ToolKit.MainWindow [10980] System.IndexOutOfRangeException: Cannot find column 2.
+   at System.Data.DataColumnCollection.get_Item(Int32 index)
+   at System.Data.DataRow.get_Item(Int32 columnIndex)
+   at FLS_Measurement_ToolKit.MainWindow.<>c__DisplayClass14_0.<ComputeGraphPlotingValue>b__4(DataRow x) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 611
+   at System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   at System.Linq.Enumerable.Count[TSource](IEnumerable`1 source)
+   at FLS_Measurement_ToolKit.MainWindow.ComputeGraphPlotingValue(DataTable ScensorValueTable, String& maxScensorValue, String& minScensorValue) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 644
+   at FLS_Measurement_ToolKit.MainWindow.OnlineImportCsvFileAndDisplayRadialGraph(String filename) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 333 
+2017/44/15 18:44:53,561 INFO  FLS_Measurement_ToolKit.MainWindow [1640] Aplication started... 
+2017/44/15 18:44:59,613 INFO  FLS_Measurement_ToolKit.MainWindow [1640] Opening CSV Path... 
+2017/45/15 18:45:08,706 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [1640] ChannelSensorSelect Values 2,m30_sensor 
+2017/45/15 18:45:16,466 INFO  FLS_Measurement_ToolKit.MeasurementSelect [1640] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 48  
+2017/45/15 18:45:31,056 INFO  FLS_Measurement_ToolKit.GearInfoWindow [1640] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 48, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/57/15 18:57:52,804 INFO  FLS_Measurement_ToolKit.MainWindow [2548] Aplication started... 
+2017/58/15 18:58:00,609 INFO  FLS_Measurement_ToolKit.MainWindow [2548] Opening CSV Path... 
+2017/58/15 18:58:10,575 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [2548] ChannelSensorSelect Values 1,m18_sensor 
+2017/58/15 18:58:17,045 INFO  FLS_Measurement_ToolKit.MeasurementSelect [2548] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 12  
+2017/58/15 18:58:29,846 INFO  FLS_Measurement_ToolKit.GearInfoWindow [2548] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 5645, Noofdrive: 54 ,Typeofspringplate: 48, Klinshellthicknessundergear: 5, RotaionType: CLOCKWISE 
+2017/15/15 19:15:51,196 INFO  FLS_Measurement_ToolKit.MainWindow [11188] Aplication started... 
+2017/15/15 19:15:55,714 INFO  FLS_Measurement_ToolKit.MainWindow [11188] Opening CSV Path... 
+2017/16/15 19:16:07,093 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [11188] ChannelSensorSelect Values 2,rectangular_sensor 
+2017/16/15 19:16:19,303 INFO  FLS_Measurement_ToolKit.MeasurementSelect [11188] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 48  
+2017/16/15 19:16:31,972 INFO  FLS_Measurement_ToolKit.GearInfoWindow [11188] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 878, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/16/15 19:16:32,061 ERROR FLS_Measurement_ToolKit.MainWindow [11188] System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.Enumerable.Average(IEnumerable`1 source)
+   at System.Linq.Enumerable.Average[TSource](IEnumerable`1 source, Func`2 selector)
+   at FLS_Measurement_ToolKit.MainWindow.OnlineImportCsvFileAndDisplayAxialGraph(String filename) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 504 
+2017/16/15 19:16:50,940 INFO  FLS_Measurement_ToolKit.MainWindow [3556] Aplication started... 
+2017/16/15 19:16:54,042 INFO  FLS_Measurement_ToolKit.MainWindow [3556] Opening CSV Path... 
+2017/17/15 19:17:03,351 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [3556] ChannelSensorSelect Values 4,m30_sensor 
+2017/17/15 19:17:13,407 INFO  FLS_Measurement_ToolKit.MeasurementSelect [3556] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 48  
+2017/17/15 19:17:25,520 INFO  FLS_Measurement_ToolKit.GearInfoWindow [3556] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 54, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/18/15 19:18:37,311 INFO  FLS_Measurement_ToolKit.MainWindow [10384] Aplication started... 
+2017/18/15 19:18:44,423 INFO  FLS_Measurement_ToolKit.MainWindow [10384] Opening CSV Path... 
+2017/18/15 19:18:55,708 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [10384] ChannelSensorSelect Values 3,m30_sensor 
+2017/19/15 19:19:03,023 INFO  FLS_Measurement_ToolKit.MeasurementSelect [10384] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 48  
+2017/19/15 19:19:14,969 INFO  FLS_Measurement_ToolKit.GearInfoWindow [10384] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 48, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/19/15 19:19:44,229 ERROR FLS_Measurement_ToolKit.MainWindow [10384] System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.Enumerable.Average(IEnumerable`1 source)
+   at System.Linq.Enumerable.Average[TSource](IEnumerable`1 source, Func`2 selector)
+   at FLS_Measurement_ToolKit.MainWindow.OnlineImportCsvFileAndDisplayAxialGraph(String filename) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 504 
+2017/19/15 19:19:48,166 INFO  FLS_Measurement_ToolKit.MainWindow [10384] Opening CSV Path... 
+2017/19/15 19:19:57,782 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [10384] ChannelSensorSelect Values 3,m30_sensor 
+2017/20/15 19:20:03,864 INFO  FLS_Measurement_ToolKit.MeasurementSelect [10384] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 48  
+2017/20/15 19:20:09,023 INFO  FLS_Measurement_ToolKit.GearInfoWindow [10384] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 48, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/30/15 19:30:10,807 INFO  FLS_Measurement_ToolKit.MainWindow [10196] Aplication started... 
+2017/30/15 19:30:53,921 INFO  FLS_Measurement_ToolKit.MainWindow [10196] Opening CSV Path... 
+2017/31/15 19:31:04,375 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [10196] ChannelSensorSelect Values 2,m30_sensor 
+2017/31/15 19:31:10,814 INFO  FLS_Measurement_ToolKit.MeasurementSelect [10196] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 48  
+2017/31/15 19:31:30,213 INFO  FLS_Measurement_ToolKit.GearInfoWindow [10196] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 48, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/09/15 20:09:34,448 INFO  FLS_Measurement_ToolKit.MainWindow [3604] Aplication started... 
+2017/10/15 20:10:44,302 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [3604] Com Port connected with Values COM11 
+2017/10/15 20:10:47,536 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [3604] ChannelSensorSelect Values 1,m12_sensor 
+2017/10/15 20:10:50,158 INFO  FLS_Measurement_ToolKit.MeasurementSelect [3604] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/10/15 20:10:53,222 INFO  FLS_Measurement_ToolKit.AddInfoWindow [3604] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/10/15 20:10:56,594 INFO  FLS_Measurement_ToolKit.GearInfoWindow [3604] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/11/15 20:11:32,654 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [3604] Com Port unable connect with Values COM1, Exception:System.IO.IOException: The port 'COM1' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at FLS_Measurement_ToolKit.COMPortSelectionWindow.btnOk_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\COMPortSelectionWindow.xaml.cs:line 60   
+2017/11/15 20:11:50,565 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [3604] Com Port connected with Values COM11 
+2017/12/15 20:12:41,904 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [3604] Com Port connected with Values COM11 
+2017/12/15 20:12:46,107 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [3604] ChannelSensorSelect Values 1,m12_sensor 
+2017/12/15 20:12:48,348 INFO  FLS_Measurement_ToolKit.MeasurementSelect [3604] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/12/15 20:12:51,166 INFO  FLS_Measurement_ToolKit.AddInfoWindow [3604] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/12/15 20:12:54,580 INFO  FLS_Measurement_ToolKit.GearInfoWindow [3604] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/27/15 20:27:32,896 INFO  FLS_Measurement_ToolKit.MainWindow [3832] Aplication started... 
+2017/27/15 20:27:39,753 INFO  FLS_Measurement_ToolKit.MainWindow [3832] Opening CSV Path... 
+2017/28/15 20:28:22,197 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [3832] ChannelSensorSelect Values 1,m30_sensor 
+2017/28/15 20:28:32,575 INFO  FLS_Measurement_ToolKit.MeasurementSelect [3832] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 12  
+2017/28/15 20:28:53,113 INFO  FLS_Measurement_ToolKit.GearInfoWindow [3832] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 665, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/30/15 20:30:52,658 INFO  FLS_Measurement_ToolKit.MainWindow [3900] Aplication started... 
+2017/31/15 20:31:00,478 INFO  FLS_Measurement_ToolKit.MainWindow [3900] Opening CSV Path... 
+2017/31/15 20:31:08,161 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [3900] ChannelSensorSelect Values 2,m30_sensor 
+2017/31/15 20:31:14,306 INFO  FLS_Measurement_ToolKit.MeasurementSelect [3900] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 12  
+2017/31/15 20:31:26,726 INFO  FLS_Measurement_ToolKit.GearInfoWindow [3900] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 545, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/32/15 20:32:19,433 INFO  FLS_Measurement_ToolKit.MainWindow [2216] Aplication started... 
+2017/32/15 20:32:56,550 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [2216] Com Port connected with Values COM11 
+2017/32/15 20:32:59,236 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [2216] ChannelSensorSelect Values 1,m12_sensor 
+2017/33/15 20:33:07,445 INFO  FLS_Measurement_ToolKit.MeasurementSelect [2216] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 36  
+2017/33/15 20:33:10,249 INFO  FLS_Measurement_ToolKit.AddInfoWindow [2216] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/33/15 20:33:13,056 INFO  FLS_Measurement_ToolKit.GearInfoWindow [2216] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/34/15 20:34:18,062 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [2216] Com Port connected with Values COM11 
+2017/34/15 20:34:25,352 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [2216] ChannelSensorSelect Values 1,m12_sensor 
+2017/34/15 20:34:33,333 INFO  FLS_Measurement_ToolKit.MeasurementSelect [2216] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 48  
+2017/34/15 20:34:37,774 INFO  FLS_Measurement_ToolKit.AddInfoWindow [2216] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/34/15 20:34:46,653 INFO  FLS_Measurement_ToolKit.GearInfoWindow [2216] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/35/15 20:35:54,630 ERROR FLS_Measurement_ToolKit.MainWindow [2216] System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FLS_Measurement_ToolKit.MainWindow.GetGearTeethvalue(DataTable ScensorValueTable) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 626
+   at FLS_Measurement_ToolKit.MainWindow.RadialComputingSensorValues(DataTable ScensorValueTable) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 969
+   at FLS_Measurement_ToolKit.MainWindow.OnlineImportCsvFileAndDisplayRadialGraph(String filename) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 546
+   at FLS_Measurement_ToolKit.MainWindow.MenuItem_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 184 
+2017/38/15 20:38:50,982 INFO  FLS_Measurement_ToolKit.MainWindow [3856] Aplication started... 
+2017/39/15 20:39:22,184 INFO  FLS_Measurement_ToolKit.MainWindow [2108] Aplication started... 
+2017/39/15 20:39:25,442 INFO  FLS_Measurement_ToolKit.MainWindow [2108] Opening CSV Path... 
+2017/39/15 20:39:43,472 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [2108] ChannelSensorSelect Values 1,m30_sensor 
+2017/39/15 20:39:52,241 INFO  FLS_Measurement_ToolKit.MeasurementSelect [2108] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 48  
+2017/40/15 20:40:02,515 INFO  FLS_Measurement_ToolKit.GearInfoWindow [2108] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 6, Noofdrive: 54654 ,Typeofspringplate: 654, Klinshellthicknessundergear: 65465, RotaionType: CLOCKWISE 
+2017/43/15 20:43:43,759 ERROR FLS_Measurement_ToolKit.MainWindow [2108] System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FLS_Measurement_ToolKit.MainWindow.GetGearTeethvalue(DataTable ScensorValueTable) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 626
+   at FLS_Measurement_ToolKit.MainWindow.RadialComputingSensorValues(DataTable ScensorValueTable) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 969
+   at FLS_Measurement_ToolKit.MainWindow.OnlineImportCsvFileAndDisplayRadialGraph(String filename) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 546
+   at FLS_Measurement_ToolKit.MainWindow.MenuItemOpen_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 106 
+2017/44/15 20:44:49,665 INFO  FLS_Measurement_ToolKit.MainWindow [10404] Aplication started... 
+2017/44/15 20:44:55,525 INFO  FLS_Measurement_ToolKit.MainWindow [10404] Opening CSV Path... 
+2017/45/15 20:45:04,983 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [10404] ChannelSensorSelect Values 2,m18_sensor 
+2017/45/15 20:45:17,320 INFO  FLS_Measurement_ToolKit.MeasurementSelect [10404] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 12  
+2017/45/15 20:45:33,956 INFO  FLS_Measurement_ToolKit.GearInfoWindow [10404] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 545, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/50/15 20:50:44,836 INFO  FLS_Measurement_ToolKit.MainWindow [6620] Aplication started... 
+2017/51/15 20:51:11,738 INFO  FLS_Measurement_ToolKit.MainWindow [6620] Opening CSV Path... 
+2017/51/15 20:51:36,097 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [6620] ChannelSensorSelect Values 1,m12_sensor 
+2017/51/15 20:51:38,754 INFO  FLS_Measurement_ToolKit.MeasurementSelect [6620] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/51/15 20:51:44,617 INFO  FLS_Measurement_ToolKit.GearInfoWindow [6620] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/55/15 20:55:08,532 INFO  FLS_Measurement_ToolKit.MainWindow [6620] Opening CSV Path... 
+2017/55/15 20:55:17,945 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [6620] ChannelSensorSelect Values 1,m12_sensor 
+2017/55/15 20:55:20,366 INFO  FLS_Measurement_ToolKit.MeasurementSelect [6620] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/55/15 20:55:23,772 INFO  FLS_Measurement_ToolKit.GearInfoWindow [6620] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/55/15 20:55:27,081 ERROR FLS_Measurement_ToolKit.MainWindow [6620] System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FLS_Measurement_ToolKit.MainWindow.GetGearTeethvalue(DataTable ScensorValueTable) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 626
+   at FLS_Measurement_ToolKit.MainWindow.RadialComputingSensorValues(DataTable ScensorValueTable) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 969
+   at FLS_Measurement_ToolKit.MainWindow.OnlineImportCsvFileAndDisplayRadialGraph(String filename) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 546
+   at FLS_Measurement_ToolKit.MainWindow.MenuItemOpen_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 106 
+2017/55/15 20:55:36,003 INFO  FLS_Measurement_ToolKit.MainWindow [6620] Opening CSV Path... 
+2017/55/15 20:55:42,575 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [6620] ChannelSensorSelect Values 1,m12_sensor 
+2017/55/15 20:55:44,312 INFO  FLS_Measurement_ToolKit.MeasurementSelect [6620] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/55/15 20:55:47,727 INFO  FLS_Measurement_ToolKit.GearInfoWindow [6620] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/55/15 20:55:51,737 ERROR FLS_Measurement_ToolKit.MainWindow [6620] System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FLS_Measurement_ToolKit.MainWindow.GetGearTeethvalue(DataTable ScensorValueTable) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 626
+   at FLS_Measurement_ToolKit.MainWindow.RadialComputingSensorValues(DataTable ScensorValueTable) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 969
+   at FLS_Measurement_ToolKit.MainWindow.OnlineImportCsvFileAndDisplayRadialGraph(String filename) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 546
+   at FLS_Measurement_ToolKit.MainWindow.MenuItemOpen_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 106 
+2017/55/15 20:55:57,497 INFO  FLS_Measurement_ToolKit.MainWindow [6620] Opening CSV Path... 
+2017/56/15 20:56:06,365 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [6620] ChannelSensorSelect Values 1,m12_sensor 
+2017/56/15 20:56:07,863 INFO  FLS_Measurement_ToolKit.MeasurementSelect [6620] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/56/15 20:56:11,058 INFO  FLS_Measurement_ToolKit.GearInfoWindow [6620] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 

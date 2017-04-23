@@ -1,0 +1,3 @@
+firstItrationRadialRunOutMeasurement:0.914692 
+ secondItrationRadialRunOutMeasurement:0.917986 
+ thirdItrationRadialRunOutMeasurement:0.917896

@@ -1,0 +1,374 @@
+2017/02/25 00:02:24,144 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [8540] Com Port connected with Values COM11 
+2017/02/25 00:02:28,859 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [8540] ChannelSensorSelect Values 1,m18_sensor 
+2017/02/25 00:02:33,023 INFO  FLS_Measurement_ToolKit.MeasurementSelect [8540] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/02/25 00:02:41,362 INFO  FLS_Measurement_ToolKit.AddInfoWindow [8540] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/02/25 00:02:42,821 INFO  FLS_Measurement_ToolKit.GearInfoWindow [8540] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/03/25 00:03:45,132 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [8540] Com Port connected with Values COM11 
+2017/03/25 00:03:50,629 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [8540] ChannelSensorSelect Values 1,m18_sensor 
+2017/03/25 00:03:53,183 INFO  FLS_Measurement_ToolKit.MeasurementSelect [8540] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/03/25 00:03:54,701 INFO  FLS_Measurement_ToolKit.AddInfoWindow [8540] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/03/25 00:03:56,356 INFO  FLS_Measurement_ToolKit.GearInfoWindow [8540] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/04/25 00:04:35,882 INFO  FLS_Measurement_ToolKit.MainWindow [8540] Opening CSV Path... 
+2017/13/25 00:13:42,393 INFO  FLS_Measurement_ToolKit.MainWindow [8540] Opening CSV Path... 
+2017/14/25 00:14:02,648 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [8540] ChannelSensorSelect Values 1,m18_sensor 
+2017/14/25 00:14:05,596 INFO  FLS_Measurement_ToolKit.MeasurementSelect [8540] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/14/25 00:14:54,984 INFO  FLS_Measurement_ToolKit.MainWindow [8540] Opening CSV Path... 
+2017/15/25 00:15:02,220 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [8540] ChannelSensorSelect Values 1,m18_sensor 
+2017/15/25 00:15:08,041 INFO  FLS_Measurement_ToolKit.MeasurementSelect [8540] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 25  
+2017/15/25 00:15:32,056 INFO  FLS_Measurement_ToolKit.MainWindow [8540] Opening CSV Path... 
+2017/15/25 00:15:42,084 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [8540] ChannelSensorSelect Values 1,m18_sensor 
+2017/15/25 00:15:47,743 INFO  FLS_Measurement_ToolKit.MeasurementSelect [8540] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 30  
+2017/01/25 10:01:50,245 INFO  FLS_Measurement_ToolKit.MainWindow [13652] Aplication started... 
+2017/03/25 10:03:07,905 INFO  FLS_Measurement_ToolKit.MainWindow [13652] Opening CSV Path... 
+2017/03/25 10:03:28,132 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [13652] Com Port connected with Values COM11 
+2017/13/25 10:13:13,369 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [13652] Com Port connected with Values COM11 
+2017/13/25 10:13:20,172 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [13652] ChannelSensorSelect Values 1,m12_sensor 
+2017/13/25 10:13:23,651 INFO  FLS_Measurement_ToolKit.MeasurementSelect [13652] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/13/25 10:13:25,705 INFO  FLS_Measurement_ToolKit.AddInfoWindow [13652] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/13/25 10:13:27,410 INFO  FLS_Measurement_ToolKit.GearInfoWindow [13652] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/16/25 10:16:03,583 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [13652] Com Port connected with Values COM11 
+2017/16/25 10:16:08,607 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [13652] ChannelSensorSelect Values 1,m12_sensor 
+2017/16/25 10:16:11,058 INFO  FLS_Measurement_ToolKit.MeasurementSelect [13652] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/16/25 10:16:12,949 INFO  FLS_Measurement_ToolKit.AddInfoWindow [13652] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/16/25 10:16:14,600 INFO  FLS_Measurement_ToolKit.GearInfoWindow [13652] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/20/25 10:20:08,730 INFO  FLS_Measurement_ToolKit.MainWindow [3768] Aplication started... 
+2017/20/25 10:20:34,019 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [3768] Com Port unable connect with Values COM11, Exception:System.TimeoutException: The operation has timed out.
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Ports.SerialPort.InternalRead(Char[] buffer, Int32 offset, Int32 count, Int32 timeout, Boolean countMultiByteCharsAsOne)
+   at System.IO.Ports.SerialPort.ReadTo(String value)
+   at System.IO.Ports.SerialPort.ReadLine()
+   at FLS_Measurement_ToolKit.COMPortSelectionWindow.btnOk_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\COMPortSelectionWindow.xaml.cs:line 64   
+2017/20/25 10:20:52,744 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [3768] Com Port unable connect with Values COM11, Exception:System.TimeoutException: The operation has timed out.
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Ports.SerialPort.InternalRead(Char[] buffer, Int32 offset, Int32 count, Int32 timeout, Boolean countMultiByteCharsAsOne)
+   at System.IO.Ports.SerialPort.ReadTo(String value)
+   at System.IO.Ports.SerialPort.ReadLine()
+   at FLS_Measurement_ToolKit.COMPortSelectionWindow.btnOk_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\COMPortSelectionWindow.xaml.cs:line 64   
+2017/21/25 10:21:12,354 INFO  FLS_Measurement_ToolKit.MainWindow [14836] Aplication started... 
+2017/21/25 10:21:41,140 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [14836] Com Port connected with Values COM11 
+2017/21/25 10:21:47,911 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [14836] ChannelSensorSelect Values 1,m12_sensor 
+2017/21/25 10:21:50,887 INFO  FLS_Measurement_ToolKit.MeasurementSelect [14836] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/21/25 10:21:52,959 INFO  FLS_Measurement_ToolKit.AddInfoWindow [14836] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/21/25 10:21:55,895 INFO  FLS_Measurement_ToolKit.GearInfoWindow [14836] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/23/25 10:23:00,483 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [14836] Com Port connected with Values COM11 
+2017/23/25 10:23:06,074 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [14836] ChannelSensorSelect Values 1,m12_sensor 
+2017/23/25 10:23:08,863 INFO  FLS_Measurement_ToolKit.MeasurementSelect [14836] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/23/25 10:23:11,106 INFO  FLS_Measurement_ToolKit.AddInfoWindow [14836] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/23/25 10:23:12,827 INFO  FLS_Measurement_ToolKit.GearInfoWindow [14836] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/24/25 10:24:10,221 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [14836] Com Port connected with Values COM11 
+2017/24/25 10:24:14,779 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [14836] ChannelSensorSelect Values 1,m12_sensor 
+2017/24/25 10:24:16,842 INFO  FLS_Measurement_ToolKit.MeasurementSelect [14836] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/24/25 10:24:18,547 INFO  FLS_Measurement_ToolKit.AddInfoWindow [14836] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/24/25 10:24:20,049 INFO  FLS_Measurement_ToolKit.GearInfoWindow [14836] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/24/25 10:24:35,840 ERROR FLS_Measurement_ToolKit.ReadWriteSerialPort [14836] System.TimeoutException: The operation has timed out.
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Ports.SerialPort.InternalRead(Char[] buffer, Int32 offset, Int32 count, Int32 timeout, Boolean countMultiByteCharsAsOne)
+   at System.IO.Ports.SerialPort.ReadTo(String value)
+   at System.IO.Ports.SerialPort.ReadLine()
+   at FLS_Measurement_ToolKit.ReadWriteSerialPort.<btnStart_Click>b__3_1() in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\ReadWriteSerialPort.xaml.cs:line 79 
+2017/25/25 10:25:01,893 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [14836] Com Port unable connect with Values COM11, Exception:System.IO.IOException: The port 'COM11' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at FLS_Measurement_ToolKit.COMPortSelectionWindow.btnOk_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\COMPortSelectionWindow.xaml.cs:line 60   
+2017/25/25 10:25:20,180 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [14836] Com Port unable connect with Values COM11, Exception:System.IO.IOException: The port 'COM11' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at FLS_Measurement_ToolKit.COMPortSelectionWindow.btnOk_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\COMPortSelectionWindow.xaml.cs:line 60   
+2017/25/25 10:25:29,713 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [14836] Com Port unable connect with Values COM11, Exception:System.IO.IOException: The port 'COM11' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at FLS_Measurement_ToolKit.COMPortSelectionWindow.btnOk_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\COMPortSelectionWindow.xaml.cs:line 60   
+2017/25/25 10:25:58,302 INFO  FLS_Measurement_ToolKit.MainWindow [4776] Aplication started... 
+2017/26/25 10:26:33,601 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port unable connect with Values COM11, Exception:System.TimeoutException: The operation has timed out.
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Ports.SerialPort.InternalRead(Char[] buffer, Int32 offset, Int32 count, Int32 timeout, Boolean countMultiByteCharsAsOne)
+   at System.IO.Ports.SerialPort.ReadTo(String value)
+   at System.IO.Ports.SerialPort.ReadLine()
+   at FLS_Measurement_ToolKit.COMPortSelectionWindow.btnOk_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\COMPortSelectionWindow.xaml.cs:line 64   
+2017/27/25 10:27:18,708 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/27/25 10:27:23,149 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m12_sensor 
+2017/27/25 10:27:25,397 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/27/25 10:27:28,499 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/27/25 10:27:31,725 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/32/25 10:32:12,181 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/32/25 10:32:16,107 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m18_sensor 
+2017/32/25 10:32:17,974 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/32/25 10:32:20,997 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/32/25 10:32:24,177 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/33/25 10:33:19,356 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/33/25 10:33:23,051 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m18_sensor 
+2017/33/25 10:33:24,685 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/33/25 10:33:27,678 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/33/25 10:33:30,874 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/34/25 10:34:17,964 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/34/25 10:34:21,016 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m18_sensor 
+2017/34/25 10:34:22,740 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/34/25 10:34:25,667 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/34/25 10:34:28,910 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/35/25 10:35:15,753 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/35/25 10:35:18,600 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m18_sensor 
+2017/35/25 10:35:20,228 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/35/25 10:35:22,814 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/35/25 10:35:25,904 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/36/25 10:36:09,247 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/36/25 10:36:12,109 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m18_sensor 
+2017/36/25 10:36:13,823 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/36/25 10:36:16,692 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/36/25 10:36:19,222 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/39/25 10:39:48,707 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/39/25 10:39:53,020 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m30_sensor 
+2017/39/25 10:39:55,222 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/39/25 10:39:58,300 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/40/25 10:40:00,999 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/40/25 10:40:52,730 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/40/25 10:40:56,713 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m30_sensor 
+2017/40/25 10:40:58,540 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/41/25 10:41:01,677 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/41/25 10:41:04,257 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/41/25 10:41:51,493 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/41/25 10:41:55,681 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m30_sensor 
+2017/41/25 10:41:57,923 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/42/25 10:42:01,128 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/42/25 10:42:05,091 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/43/25 10:43:27,175 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/43/25 10:43:30,737 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m30_sensor 
+2017/43/25 10:43:32,480 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/43/25 10:43:35,399 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/43/25 10:43:38,123 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/44/25 10:44:44,344 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/44/25 10:44:51,158 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m30_sensor 
+2017/44/25 10:44:56,110 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/44/25 10:44:59,337 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/45/25 10:45:01,471 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/58/25 10:58:19,086 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/58/25 10:58:24,202 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,rectangular_sensor 
+2017/58/25 10:58:26,912 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/58/25 10:58:28,840 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/58/25 10:58:30,326 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/59/25 10:59:23,879 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/59/25 10:59:28,703 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,rectangular_sensor 
+2017/59/25 10:59:31,118 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/59/25 10:59:32,600 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/59/25 10:59:34,160 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/00/25 11:00:22,110 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/00/25 11:00:26,945 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,rectangular_sensor 
+2017/00/25 11:00:29,226 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/00/25 11:00:30,780 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/00/25 11:00:32,279 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/01/25 11:01:17,286 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/01/25 11:01:20,909 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,rectangular_sensor 
+2017/01/25 11:01:22,425 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/01/25 11:01:25,154 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/01/25 11:01:28,231 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/02/25 11:02:16,372 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/02/25 11:02:20,434 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,rectangular_sensor 
+2017/02/25 11:02:22,404 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/02/25 11:02:25,120 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/02/25 11:02:27,745 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/08/25 11:08:03,589 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/08/25 11:08:08,168 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,rectangular_sensor 
+2017/08/25 11:08:10,202 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/08/25 11:08:13,163 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/08/25 11:08:15,655 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/09/25 11:09:23,791 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/09/25 11:09:29,234 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,rectangular_sensor 
+2017/09/25 11:09:31,431 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/09/25 11:09:34,374 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/09/25 11:09:36,970 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/10/25 11:10:30,939 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/10/25 11:10:34,434 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,rectangular_sensor 
+2017/10/25 11:10:36,396 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/10/25 11:10:39,944 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/10/25 11:10:42,788 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/11/25 11:11:31,795 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/11/25 11:11:35,830 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,rectangular_sensor 
+2017/11/25 11:11:38,059 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/11/25 11:11:41,634 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/11/25 11:11:44,988 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/12/25 11:12:56,612 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/13/25 11:13:00,319 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,rectangular_sensor 
+2017/13/25 11:13:02,068 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/13/25 11:13:04,910 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/13/25 11:13:07,616 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/13/25 11:13:52,497 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/13/25 11:13:56,052 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,rectangular_sensor 
+2017/13/25 11:13:58,134 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/14/25 11:14:00,957 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/14/25 11:14:03,900 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/21/25 11:21:35,878 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/21/25 11:21:49,285 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m30_sensor 
+2017/21/25 11:21:51,925 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/21/25 11:21:55,067 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/21/25 11:21:57,941 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/23/25 11:23:10,200 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/23/25 11:23:13,888 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m30_sensor 
+2017/23/25 11:23:16,024 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/23/25 11:23:18,915 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/23/25 11:23:21,820 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/24/25 11:24:04,695 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/24/25 11:24:09,215 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m30_sensor 
+2017/24/25 11:24:11,591 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/24/25 11:24:14,640 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/24/25 11:24:18,056 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/25/25 11:25:08,840 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/25/25 11:25:11,848 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m30_sensor 
+2017/25/25 11:25:14,076 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/25/25 11:25:17,052 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/25/25 11:25:20,389 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/26/25 11:26:14,915 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/26/25 11:26:18,503 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m30_sensor 
+2017/26/25 11:26:20,967 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/26/25 11:26:23,726 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/26/25 11:26:26,607 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/31/25 11:31:43,710 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/31/25 11:31:49,790 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m30_sensor 
+2017/31/25 11:31:51,996 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/31/25 11:31:54,760 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/31/25 11:31:57,312 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/32/25 11:32:59,666 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/33/25 11:33:03,142 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m30_sensor 
+2017/33/25 11:33:05,467 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/33/25 11:33:08,438 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/33/25 11:33:11,503 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/33/25 11:33:57,694 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/34/25 11:34:01,186 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m30_sensor 
+2017/34/25 11:34:02,945 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/34/25 11:34:05,734 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/34/25 11:34:08,665 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/35/25 11:35:09,003 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/35/25 11:35:13,209 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m30_sensor 
+2017/35/25 11:35:15,296 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/35/25 11:35:18,449 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/35/25 11:35:21,808 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/36/25 11:36:12,824 INFO  FLS_Measurement_ToolKit.MainWindow [4776] Opening CSV Path... 
+2017/36/25 11:36:27,251 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/36/25 11:36:31,006 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m30_sensor 
+2017/36/25 11:36:32,768 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/36/25 11:36:35,581 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/36/25 11:36:38,476 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/42/25 11:42:16,122 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/42/25 11:42:18,785 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m18_sensor 
+2017/42/25 11:42:20,563 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/42/25 11:42:23,338 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/42/25 11:42:25,859 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/43/25 11:43:11,503 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/43/25 11:43:14,275 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m18_sensor 
+2017/43/25 11:43:15,966 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/43/25 11:43:18,382 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/43/25 11:43:20,972 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/44/25 11:44:01,569 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/44/25 11:44:04,785 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m18_sensor 
+2017/44/25 11:44:06,584 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/44/25 11:44:09,478 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/44/25 11:44:12,442 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/44/25 11:44:55,793 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/44/25 11:44:59,203 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m18_sensor 
+2017/45/25 11:45:00,868 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/45/25 11:45:03,441 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/45/25 11:45:06,238 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/45/25 11:45:55,707 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/45/25 11:45:59,253 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m18_sensor 
+2017/46/25 11:46:01,076 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/46/25 11:46:03,708 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/46/25 11:46:06,519 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/46/25 11:46:55,506 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/46/25 11:46:58,611 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m18_sensor 
+2017/47/25 11:47:00,261 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/47/25 11:47:02,474 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/47/25 11:47:04,907 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/50/25 11:50:43,108 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/50/25 11:50:46,809 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m18_sensor 
+2017/50/25 11:50:48,770 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/50/25 11:50:51,365 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/50/25 11:50:53,983 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/51/25 11:51:39,952 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/51/25 11:51:43,099 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m18_sensor 
+2017/51/25 11:51:44,724 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/51/25 11:51:47,311 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/51/25 11:51:49,941 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/52/25 11:52:40,128 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/52/25 11:52:43,271 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m18_sensor 
+2017/52/25 11:52:45,218 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/52/25 11:52:49,653 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/52/25 11:52:52,020 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/53/25 11:53:45,768 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/53/25 11:53:48,976 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m18_sensor 
+2017/53/25 11:53:50,680 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/53/25 11:53:53,321 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/53/25 11:53:55,947 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/54/25 11:54:40,268 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/54/25 11:54:45,784 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m18_sensor 
+2017/54/25 11:54:47,650 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/54/25 11:54:50,528 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/54/25 11:54:53,260 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/58/25 11:58:38,192 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port unable connect with Values COM11, Exception:System.IO.IOException: The port 'COM11' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at FLS_Measurement_ToolKit.COMPortSelectionWindow.btnOk_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\COMPortSelectionWindow.xaml.cs:line 60   
+2017/58/25 11:58:55,814 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/59/25 11:59:24,702 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/59/25 11:59:27,851 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m12_sensor 
+2017/59/25 11:59:31,303 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/59/25 11:59:34,400 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/59/25 11:59:37,682 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/00/25 12:00:37,929 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port unable connect with Values COM11, Exception:System.TimeoutException: The operation has timed out.
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Ports.SerialPort.InternalRead(Char[] buffer, Int32 offset, Int32 count, Int32 timeout, Boolean countMultiByteCharsAsOne)
+   at System.IO.Ports.SerialPort.ReadTo(String value)
+   at System.IO.Ports.SerialPort.ReadLine()
+   at FLS_Measurement_ToolKit.COMPortSelectionWindow.btnOk_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\COMPortSelectionWindow.xaml.cs:line 64   
+2017/01/25 12:01:03,524 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/01/25 12:01:25,126 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/01/25 12:01:28,906 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m12_sensor 
+2017/01/25 12:01:33,573 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/01/25 12:01:39,315 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/01/25 12:01:44,831 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/02/25 12:02:28,686 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/02/25 12:02:31,752 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m12_sensor 
+2017/02/25 12:02:35,617 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/02/25 12:02:38,473 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/02/25 12:02:41,817 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/03/25 12:03:22,257 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/03/25 12:03:25,417 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m12_sensor 
+2017/03/25 12:03:26,926 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/03/25 12:03:29,125 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/03/25 12:03:31,379 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/04/25 12:04:17,047 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/04/25 12:04:19,609 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m12_sensor 
+2017/04/25 12:04:21,957 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/04/25 12:04:24,399 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/04/25 12:04:27,130 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/10/25 12:10:25,185 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/10/25 12:10:28,341 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m12_sensor 
+2017/10/25 12:10:30,052 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/10/25 12:10:32,322 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/10/25 12:10:35,111 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/11/25 12:11:16,669 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/11/25 12:11:19,572 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m12_sensor 
+2017/11/25 12:11:21,009 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/11/25 12:11:23,520 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/11/25 12:11:26,644 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/12/25 12:12:16,323 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/12/25 12:12:20,458 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m12_sensor 
+2017/12/25 12:12:23,361 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/12/25 12:12:26,199 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/12/25 12:12:28,891 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/13/25 12:13:17,093 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/13/25 12:13:19,642 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m12_sensor 
+2017/13/25 12:13:21,360 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/13/25 12:13:24,375 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/13/25 12:13:27,541 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/14/25 12:14:40,114 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4776] Com Port connected with Values COM11 
+2017/14/25 12:14:43,380 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4776] ChannelSensorSelect Values 1,m12_sensor 
+2017/14/25 12:14:45,135 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4776] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/14/25 12:14:47,871 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4776] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/14/25 12:14:51,166 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4776] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 

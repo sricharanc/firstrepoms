@@ -1,0 +1,292 @@
+2017/52/24 08:52:20,502 INFO  FLS_Measurement_ToolKit.MainWindow [8732] Aplication started... 
+2017/57/24 08:57:11,394 INFO  FLS_Measurement_ToolKit.MainWindow [8732] Opening CSV Path... 
+2017/57/24 08:57:22,627 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [8732] ChannelSensorSelect Values 1,m12_sensor 
+2017/57/24 08:57:25,143 INFO  FLS_Measurement_ToolKit.MeasurementSelect [8732] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/57/24 08:57:39,676 INFO  FLS_Measurement_ToolKit.GearInfoWindow [8732] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/57/24 08:57:39,833 ERROR FLS_Measurement_ToolKit.MainWindow [8732] System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\Resource\Detail.txt'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalWriteAllText(String path, String contents, Encoding encoding, Boolean checkHost)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at FLS_Measurement_ToolKit.MainWindow.RadialComputingSensorValues(DataTable ScensorValueTable) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 859 
+2017/57/24 08:57:53,234 ERROR FLS_Measurement_ToolKit.MainWindow [8732] System.Runtime.InteropServices.ExternalException (0x80004005): A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at FLS_Measurement_ToolKit.MainWindow.ExportRadialGraphToPDF_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 278 
+2017/59/24 08:59:21,158 INFO  FLS_Measurement_ToolKit.MainWindow [8024] Aplication started... 
+2017/59/24 08:59:24,506 INFO  FLS_Measurement_ToolKit.MainWindow [8024] Opening CSV Path... 
+2017/59/24 08:59:43,249 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [8024] ChannelSensorSelect Values 1,m18_sensor 
+2017/59/24 08:59:45,356 INFO  FLS_Measurement_ToolKit.MeasurementSelect [8024] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/59/24 08:59:53,194 INFO  FLS_Measurement_ToolKit.GearInfoWindow [8024] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/59/24 08:59:53,293 ERROR FLS_Measurement_ToolKit.MainWindow [8024] System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\Resource\Detail.txt'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalWriteAllText(String path, String contents, Encoding encoding, Boolean checkHost)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at FLS_Measurement_ToolKit.MainWindow.RadialComputingSensorValues(DataTable ScensorValueTable) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 859 
+2017/00/24 09:00:21,040 INFO  FLS_Measurement_ToolKit.MainWindow [8024] Opening CSV Path... 
+2017/04/24 09:04:05,317 INFO  FLS_Measurement_ToolKit.MainWindow [568] Aplication started... 
+2017/04/24 09:04:33,227 INFO  FLS_Measurement_ToolKit.MainWindow [568] Opening CSV Path... 
+2017/04/24 09:04:39,797 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [568] ChannelSensorSelect Values 1,m18_sensor 
+2017/04/24 09:04:41,814 INFO  FLS_Measurement_ToolKit.MeasurementSelect [568] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/04/24 09:04:47,641 INFO  FLS_Measurement_ToolKit.GearInfoWindow [568] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/04/24 09:04:50,594 ERROR FLS_Measurement_ToolKit.MainWindow [568] System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\Resource\Detail.txt'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalWriteAllText(String path, String contents, Encoding encoding, Boolean checkHost)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at FLS_Measurement_ToolKit.MainWindow.RadialComputingSensorValues(DataTable ScensorValueTable) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 859 
+2017/05/24 09:05:17,266 INFO  FLS_Measurement_ToolKit.MainWindow [568] Opening CSV Path... 
+2017/05/24 09:05:21,795 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [568] ChannelSensorSelect Values 1,m12_sensor 
+2017/05/24 09:05:24,874 INFO  FLS_Measurement_ToolKit.MeasurementSelect [568] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/05/24 09:05:28,788 INFO  FLS_Measurement_ToolKit.GearInfoWindow [568] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/20/24 09:20:33,089 INFO  FLS_Measurement_ToolKit.MainWindow [10136] Aplication started... 
+2017/20/24 09:20:36,944 INFO  FLS_Measurement_ToolKit.MainWindow [10136] Opening CSV Path... 
+2017/20/24 09:20:45,250 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [10136] ChannelSensorSelect Values 1,m12_sensor 
+2017/20/24 09:20:47,611 INFO  FLS_Measurement_ToolKit.MeasurementSelect [10136] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/20/24 09:20:58,906 INFO  FLS_Measurement_ToolKit.GearInfoWindow [10136] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/21/24 09:21:18,707 INFO  FLS_Measurement_ToolKit.MainWindow [10136] Opening CSV Path... 
+2017/21/24 09:21:32,376 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [10136] ChannelSensorSelect Values 1,m12_sensor 
+2017/21/24 09:21:34,785 INFO  FLS_Measurement_ToolKit.MeasurementSelect [10136] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 240  
+2017/21/24 09:21:49,231 INFO  FLS_Measurement_ToolKit.GearInfoWindow [10136] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/36/24 11:36:50,439 INFO  FLS_Measurement_ToolKit.MainWindow [9232] Aplication started... 
+2017/50/24 11:50:41,222 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [9232] Com Port connected with Values COM11 
+2017/50/24 11:50:49,081 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [9232] ChannelSensorSelect Values 1,m12_sensor 
+2017/50/24 11:50:54,084 INFO  FLS_Measurement_ToolKit.MeasurementSelect [9232] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/51/24 11:51:22,736 INFO  FLS_Measurement_ToolKit.AddInfoWindow [9232] MeasurementSelect Values CustomerName: ICL Vallur, OEM: Polysius, Location: Vallur, EquipmentTagNo: 1, Kilnsize: 1, NoOfbases: 1 ,ProjectContractNo: 1  
+2017/51/24 11:51:39,829 INFO  FLS_Measurement_ToolKit.GearInfoWindow [9232] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: Clockwise, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/17/24 12:17:46,390 INFO  FLS_Measurement_ToolKit.MainWindow [6236] Aplication started... 
+2017/17/24 12:17:59,977 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [6236] Com Port connected with Values COM11 
+2017/18/24 12:18:04,641 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [6236] ChannelSensorSelect Values 1,m12_sensor 
+2017/18/24 12:18:07,917 INFO  FLS_Measurement_ToolKit.MeasurementSelect [6236] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/18/24 12:18:13,483 INFO  FLS_Measurement_ToolKit.AddInfoWindow [6236] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: 1, EquipmentTagNo: 1, Kilnsize: 1, NoOfbases: 1 ,ProjectContractNo: 1  
+2017/18/24 12:18:20,395 INFO  FLS_Measurement_ToolKit.GearInfoWindow [6236] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/18/24 12:18:32,083 ERROR FLS_Measurement_ToolKit.ReadWriteSerialPort [6236] System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\Resource\NewData1.CSV'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalWriteAllText(String path, String contents, Encoding encoding, Boolean checkHost)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at FLS_Measurement_ToolKit.ReadWriteSerialPort.<btnStart_Click>b__3_1() in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\ReadWriteSerialPort.xaml.cs:line 102 
+2017/19/24 12:19:16,843 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [6236] Com Port connected with Values COM11 
+2017/19/24 12:19:19,718 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [6236] ChannelSensorSelect Values 1,m12_sensor 
+2017/19/24 12:19:21,173 INFO  FLS_Measurement_ToolKit.MeasurementSelect [6236] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/19/24 12:19:24,144 INFO  FLS_Measurement_ToolKit.AddInfoWindow [6236] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: 1, EquipmentTagNo: 1, Kilnsize: 1, NoOfbases: 1 ,ProjectContractNo: 1  
+2017/19/24 12:19:25,452 INFO  FLS_Measurement_ToolKit.GearInfoWindow [6236] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/19/24 12:19:33,392 ERROR FLS_Measurement_ToolKit.ReadWriteSerialPort [6236] System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\Resource\NewData1.CSV'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalWriteAllText(String path, String contents, Encoding encoding, Boolean checkHost)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at FLS_Measurement_ToolKit.ReadWriteSerialPort.<btnStart_Click>b__3_1() in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\ReadWriteSerialPort.xaml.cs:line 102 
+2017/20/24 12:20:10,707 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [6236] Com Port unable connect with Values COM11, Exception:System.TimeoutException: The operation has timed out.
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Ports.SerialPort.InternalRead(Char[] buffer, Int32 offset, Int32 count, Int32 timeout, Boolean countMultiByteCharsAsOne)
+   at System.IO.Ports.SerialPort.ReadTo(String value)
+   at System.IO.Ports.SerialPort.ReadLine()
+   at FLS_Measurement_ToolKit.COMPortSelectionWindow.btnOk_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\COMPortSelectionWindow.xaml.cs:line 64   
+2017/20/24 12:20:34,613 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [6236] Com Port connected with Values COM11 
+2017/20/24 12:20:57,135 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [6236] Com Port unable connect with Values COM11, Exception:System.TimeoutException: The operation has timed out.
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Ports.SerialPort.InternalRead(Char[] buffer, Int32 offset, Int32 count, Int32 timeout, Boolean countMultiByteCharsAsOne)
+   at System.IO.Ports.SerialPort.ReadTo(String value)
+   at System.IO.Ports.SerialPort.ReadLine()
+   at FLS_Measurement_ToolKit.COMPortSelectionWindow.btnOk_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\COMPortSelectionWindow.xaml.cs:line 64   
+2017/21/24 12:21:05,976 INFO  FLS_Measurement_ToolKit.MainWindow [3912] Aplication started... 
+2017/21/24 12:21:30,172 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [3912] Com Port connected with Values COM11 
+2017/21/24 12:21:32,713 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [3912] ChannelSensorSelect Values 1,m12_sensor 
+2017/21/24 12:21:34,112 INFO  FLS_Measurement_ToolKit.MeasurementSelect [3912] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/21/24 12:21:39,180 INFO  FLS_Measurement_ToolKit.AddInfoWindow [3912] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: 1, EquipmentTagNo: 1, Kilnsize: 1, NoOfbases: 1 ,ProjectContractNo: 1  
+2017/21/24 12:21:45,252 INFO  FLS_Measurement_ToolKit.GearInfoWindow [3912] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: 1, Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/21/24 12:21:53,889 ERROR FLS_Measurement_ToolKit.ReadWriteSerialPort [3912] System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\Resource\NewData1.CSV'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalWriteAllText(String path, String contents, Encoding encoding, Boolean checkHost)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at FLS_Measurement_ToolKit.ReadWriteSerialPort.<btnStart_Click>b__3_1() in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\ReadWriteSerialPort.xaml.cs:line 102 
+2017/24/24 12:24:10,069 INFO  FLS_Measurement_ToolKit.MainWindow [8416] Aplication started... 
+2017/24/24 12:24:36,746 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [8416] Com Port connected with Values COM11 
+2017/24/24 12:24:39,748 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [8416] ChannelSensorSelect Values 1,m12_sensor 
+2017/24/24 12:24:41,281 INFO  FLS_Measurement_ToolKit.MeasurementSelect [8416] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/24/24 12:24:46,132 INFO  FLS_Measurement_ToolKit.AddInfoWindow [8416] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: 1, EquipmentTagNo: 1, Kilnsize: 1, NoOfbases: 1 ,ProjectContractNo: 1  
+2017/24/24 12:24:55,254 INFO  FLS_Measurement_ToolKit.GearInfoWindow [8416] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: 1, NoOfteeth: 1, HelixAngle: 1, Directionofrotation: 1, Noofdrive: 1 ,Typeofspringplate: 1, Klinshellthicknessundergear: 1, RotaionType: CLOCKWISE 
+2017/25/24 12:25:03,547 ERROR FLS_Measurement_ToolKit.ReadWriteSerialPort [8416] System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\Resource\NewData1.CSV'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalWriteAllText(String path, String contents, Encoding encoding, Boolean checkHost)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at FLS_Measurement_ToolKit.ReadWriteSerialPort.<btnStart_Click>b__3_1() in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\ReadWriteSerialPort.xaml.cs:line 102 
+2017/25/24 12:25:44,392 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [8416] Com Port unable connect with Values COM11, Exception:System.TimeoutException: The operation has timed out.
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Ports.SerialPort.InternalRead(Char[] buffer, Int32 offset, Int32 count, Int32 timeout, Boolean countMultiByteCharsAsOne)
+   at System.IO.Ports.SerialPort.ReadTo(String value)
+   at System.IO.Ports.SerialPort.ReadLine()
+   at FLS_Measurement_ToolKit.COMPortSelectionWindow.btnOk_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\COMPortSelectionWindow.xaml.cs:line 64   
+2017/26/24 12:26:07,105 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [8416] Com Port connected with Values COM11 
+2017/26/24 12:26:45,981 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [8416] Com Port unable connect with Values COM11, Exception:System.TimeoutException: The operation has timed out.
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Ports.SerialPort.InternalRead(Char[] buffer, Int32 offset, Int32 count, Int32 timeout, Boolean countMultiByteCharsAsOne)
+   at System.IO.Ports.SerialPort.ReadTo(String value)
+   at System.IO.Ports.SerialPort.ReadLine()
+   at FLS_Measurement_ToolKit.COMPortSelectionWindow.btnOk_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\COMPortSelectionWindow.xaml.cs:line 64   
+2017/29/24 12:29:49,697 INFO  FLS_Measurement_ToolKit.MainWindow [9892] Aplication started... 
+2017/30/24 12:30:04,150 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [9892] Com Port connected with Values COM11 
+2017/30/24 12:30:07,234 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [9892] ChannelSensorSelect Values 1,m12_sensor 
+2017/30/24 12:30:08,785 INFO  FLS_Measurement_ToolKit.MeasurementSelect [9892] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/30/24 12:30:13,004 INFO  FLS_Measurement_ToolKit.AddInfoWindow [9892] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/30/24 12:30:18,925 INFO  FLS_Measurement_ToolKit.GearInfoWindow [9892] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/30/24 12:30:36,960 ERROR FLS_Measurement_ToolKit.ReadWriteSerialPort [9892] System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\Resource\NewData1.CSV'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalWriteAllText(String path, String contents, Encoding encoding, Boolean checkHost)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at FLS_Measurement_ToolKit.ReadWriteSerialPort.<btnStart_Click>b__3_1() in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\ReadWriteSerialPort.xaml.cs:line 102 
+2017/31/24 12:31:33,302 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [9892] Com Port connected with Values COM11 
+2017/31/24 12:31:35,999 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [9892] ChannelSensorSelect Values 1,m12_sensor 
+2017/31/24 12:31:37,311 INFO  FLS_Measurement_ToolKit.MeasurementSelect [9892] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/31/24 12:31:39,899 INFO  FLS_Measurement_ToolKit.AddInfoWindow [9892] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/31/24 12:31:43,476 INFO  FLS_Measurement_ToolKit.GearInfoWindow [9892] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/31/24 12:31:52,331 ERROR FLS_Measurement_ToolKit.ReadWriteSerialPort [9892] System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\Resource\NewData1.CSV'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalWriteAllText(String path, String contents, Encoding encoding, Boolean checkHost)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at FLS_Measurement_ToolKit.ReadWriteSerialPort.<btnStart_Click>b__3_1() in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\ReadWriteSerialPort.xaml.cs:line 102 
+2017/33/24 12:33:12,908 INFO  FLS_Measurement_ToolKit.MainWindow [9580] Aplication started... 
+2017/33/24 12:33:35,550 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [9580] Com Port connected with Values COM11 
+2017/33/24 12:33:38,378 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [9580] ChannelSensorSelect Values 1,m12_sensor 
+2017/33/24 12:33:39,965 INFO  FLS_Measurement_ToolKit.MeasurementSelect [9580] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/33/24 12:33:45,350 INFO  FLS_Measurement_ToolKit.AddInfoWindow [9580] MeasurementSelect Values CustomerName: 11, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/33/24 12:33:49,679 INFO  FLS_Measurement_ToolKit.GearInfoWindow [9580] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/33/24 12:33:56,913 ERROR FLS_Measurement_ToolKit.ReadWriteSerialPort [9580] System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\Resource\NewData1.CSV'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalWriteAllText(String path, String contents, Encoding encoding, Boolean checkHost)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at FLS_Measurement_ToolKit.ReadWriteSerialPort.<btnStart_Click>b__3_1() in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\ReadWriteSerialPort.xaml.cs:line 102 
+2017/37/24 12:37:25,494 INFO  FLS_Measurement_ToolKit.MainWindow [7324] Aplication started... 
+2017/37/24 12:37:57,852 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [7324] Com Port unable connect with Values COM11, Exception:System.TimeoutException: The operation has timed out.
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Ports.SerialPort.InternalRead(Char[] buffer, Int32 offset, Int32 count, Int32 timeout, Boolean countMultiByteCharsAsOne)
+   at System.IO.Ports.SerialPort.ReadTo(String value)
+   at System.IO.Ports.SerialPort.ReadLine()
+   at FLS_Measurement_ToolKit.COMPortSelectionWindow.btnOk_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\COMPortSelectionWindow.xaml.cs:line 64   
+2017/38/24 12:38:04,946 INFO  FLS_Measurement_ToolKit.MainWindow [1636] Aplication started... 
+2017/38/24 12:38:44,427 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [1636] Com Port connected with Values COM11 
+2017/38/24 12:38:51,118 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [1636] ChannelSensorSelect Values 1,m12_sensor 
+2017/38/24 12:38:52,609 INFO  FLS_Measurement_ToolKit.MeasurementSelect [1636] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/38/24 12:38:56,447 INFO  FLS_Measurement_ToolKit.AddInfoWindow [1636] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/39/24 12:39:01,058 INFO  FLS_Measurement_ToolKit.GearInfoWindow [1636] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/39/24 12:39:55,061 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [1636] Com Port connected with Values COM11 
+2017/40/24 12:40:11,138 INFO  FLS_Measurement_ToolKit.MainWindow [4768] Aplication started... 
+2017/40/24 12:40:36,649 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4768] Com Port connected with Values COM11 
+2017/40/24 12:40:39,612 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4768] ChannelSensorSelect Values 1,m12_sensor 
+2017/40/24 12:40:41,353 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4768] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/40/24 12:40:45,724 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4768] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: 1, EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/40/24 12:40:55,053 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4768] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/42/24 12:42:29,159 INFO  FLS_Measurement_ToolKit.MainWindow [6532] Aplication started... 
+2017/42/24 12:42:43,120 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [6532] Com Port connected with Values COM11 
+2017/42/24 12:42:45,746 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [6532] ChannelSensorSelect Values 1,m12_sensor 
+2017/42/24 12:42:47,096 INFO  FLS_Measurement_ToolKit.MeasurementSelect [6532] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/42/24 12:42:51,598 INFO  FLS_Measurement_ToolKit.AddInfoWindow [6532] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/42/24 12:42:59,265 INFO  FLS_Measurement_ToolKit.GearInfoWindow [6532] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/43/24 12:43:50,974 INFO  FLS_Measurement_ToolKit.MainWindow [8816] Aplication started... 
+2017/44/24 12:44:08,633 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [8816] Com Port connected with Values COM11 
+2017/44/24 12:44:11,740 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [8816] ChannelSensorSelect Values 1,m12_sensor 
+2017/44/24 12:44:13,162 INFO  FLS_Measurement_ToolKit.MeasurementSelect [8816] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/44/24 12:44:17,429 INFO  FLS_Measurement_ToolKit.AddInfoWindow [8816] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/44/24 12:44:47,233 INFO  FLS_Measurement_ToolKit.GearInfoWindow [8816] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/46/24 12:46:03,493 INFO  FLS_Measurement_ToolKit.MainWindow [7688] Aplication started... 
+2017/47/24 12:47:22,363 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [7688] Com Port connected with Values COM11 
+2017/47/24 12:47:25,615 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [7688] ChannelSensorSelect Values 1,m12_sensor 
+2017/47/24 12:47:27,107 INFO  FLS_Measurement_ToolKit.MeasurementSelect [7688] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/47/24 12:47:30,753 INFO  FLS_Measurement_ToolKit.AddInfoWindow [7688] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/47/24 12:47:35,947 INFO  FLS_Measurement_ToolKit.GearInfoWindow [7688] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/55/24 12:55:55,039 INFO  FLS_Measurement_ToolKit.MainWindow [7940] Aplication started... 
+2017/56/24 12:56:23,496 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [7940] Com Port connected with Values COM11 
+2017/56/24 12:56:26,458 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [7940] ChannelSensorSelect Values 1,m12_sensor 
+2017/56/24 12:56:27,966 INFO  FLS_Measurement_ToolKit.MeasurementSelect [7940] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/56/24 12:56:31,938 INFO  FLS_Measurement_ToolKit.AddInfoWindow [7940] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/56/24 12:56:40,785 INFO  FLS_Measurement_ToolKit.GearInfoWindow [7940] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/59/24 12:59:23,916 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [7940] Com Port connected with Values COM11 
+2017/59/24 12:59:26,828 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [7940] ChannelSensorSelect Values 1,m12_sensor 
+2017/59/24 12:59:28,220 INFO  FLS_Measurement_ToolKit.MeasurementSelect [7940] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/59/24 12:59:30,816 INFO  FLS_Measurement_ToolKit.AddInfoWindow [7940] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/59/24 12:59:33,762 INFO  FLS_Measurement_ToolKit.GearInfoWindow [7940] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/02/24 13:02:41,250 INFO  FLS_Measurement_ToolKit.MainWindow [6908] Aplication started... 
+2017/02/24 13:02:56,175 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [6908] Com Port unable connect with Values COM11, Exception:System.IO.IOException: The port 'COM11' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at FLS_Measurement_ToolKit.COMPortSelectionWindow.btnOk_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\COMPortSelectionWindow.xaml.cs:line 60   
+2017/03/24 13:03:03,540 INFO  FLS_Measurement_ToolKit.MainWindow [7644] Aplication started... 
+2017/03/24 13:03:23,857 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [7644] Com Port connected with Values COM11 
+2017/03/24 13:03:27,233 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [7644] ChannelSensorSelect Values 1,m12_sensor 
+2017/03/24 13:03:30,088 INFO  FLS_Measurement_ToolKit.MeasurementSelect [7644] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/03/24 13:03:33,845 INFO  FLS_Measurement_ToolKit.AddInfoWindow [7644] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/03/24 13:03:38,609 INFO  FLS_Measurement_ToolKit.GearInfoWindow [7644] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/06/24 13:06:27,699 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [7644] Com Port unable connect with Values COM11, Exception:System.TimeoutException: The operation has timed out.
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Ports.SerialPort.InternalRead(Char[] buffer, Int32 offset, Int32 count, Int32 timeout, Boolean countMultiByteCharsAsOne)
+   at System.IO.Ports.SerialPort.ReadTo(String value)
+   at System.IO.Ports.SerialPort.ReadLine()
+   at FLS_Measurement_ToolKit.COMPortSelectionWindow.btnOk_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\COMPortSelectionWindow.xaml.cs:line 64   
+2017/06/24 13:06:33,571 INFO  FLS_Measurement_ToolKit.MainWindow [7528] Aplication started... 
+2017/07/24 13:07:02,866 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [7528] Com Port connected with Values COM11 
+2017/07/24 13:07:06,420 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [7528] ChannelSensorSelect Values 1,m12_sensor 
+2017/07/24 13:07:07,828 INFO  FLS_Measurement_ToolKit.MeasurementSelect [7528] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/07/24 13:07:11,657 INFO  FLS_Measurement_ToolKit.AddInfoWindow [7528] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/07/24 13:07:17,208 INFO  FLS_Measurement_ToolKit.GearInfoWindow [7528] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/10/24 13:10:08,073 INFO  FLS_Measurement_ToolKit.MainWindow [8532] Aplication started... 
+2017/10/24 13:10:16,842 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [8532] Com Port unable connect with Values COM11, Exception:System.IO.IOException: The port 'COM11' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at FLS_Measurement_ToolKit.COMPortSelectionWindow.btnOk_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\COMPortSelectionWindow.xaml.cs:line 60   
+2017/10/24 13:10:25,085 INFO  FLS_Measurement_ToolKit.MainWindow [1636] Aplication started... 
+2017/10/24 13:10:39,869 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [1636] Com Port connected with Values COM11 
+2017/10/24 13:10:42,648 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [1636] ChannelSensorSelect Values 1,m12_sensor 
+2017/10/24 13:10:44,151 INFO  FLS_Measurement_ToolKit.MeasurementSelect [1636] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/10/24 13:10:47,869 INFO  FLS_Measurement_ToolKit.AddInfoWindow [1636] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/10/24 13:10:52,882 INFO  FLS_Measurement_ToolKit.GearInfoWindow [1636] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/14/24 13:14:04,448 INFO  FLS_Measurement_ToolKit.MainWindow [4280] Aplication started... 
+2017/14/24 13:14:19,418 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [4280] Com Port connected with Values COM11 
+2017/14/24 13:14:23,256 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [4280] ChannelSensorSelect Values 1,m12_sensor 
+2017/14/24 13:14:24,568 INFO  FLS_Measurement_ToolKit.MeasurementSelect [4280] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 240  
+2017/14/24 13:14:27,852 INFO  FLS_Measurement_ToolKit.AddInfoWindow [4280] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/14/24 13:14:33,257 INFO  FLS_Measurement_ToolKit.GearInfoWindow [4280] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 

@@ -1,0 +1,105 @@
+2017/07/24 20:07:58,240 INFO  FLS_Measurement_ToolKit.MainWindow [13100] Aplication started... 
+2017/08/24 20:08:25,247 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [13100] Com Port unable connect with Values COM11, Exception:System.IO.IOException: The port 'COM11' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at FLS_Measurement_ToolKit.COMPortSelectionWindow.btnOk_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\COMPortSelectionWindow.xaml.cs:line 60   
+2017/08/24 20:08:32,514 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [13100] Com Port unable connect with Values COM11, Exception:System.IO.IOException: The port 'COM11' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at FLS_Measurement_ToolKit.COMPortSelectionWindow.btnOk_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\COMPortSelectionWindow.xaml.cs:line 60   
+2017/08/24 20:08:56,563 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [13100] Com Port unable connect with Values COM11, Exception:System.IO.IOException: The port 'COM11' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at FLS_Measurement_ToolKit.COMPortSelectionWindow.btnOk_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\COMPortSelectionWindow.xaml.cs:line 60   
+2017/09/24 20:09:25,131 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [13100] Com Port unable connect with Values COM11, Exception:System.IO.IOException: The port 'COM11' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at FLS_Measurement_ToolKit.COMPortSelectionWindow.btnOk_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\COMPortSelectionWindow.xaml.cs:line 60   
+2017/10/24 20:10:33,002 INFO  FLS_Measurement_ToolKit.MainWindow [12004] Aplication started... 
+2017/10/24 20:10:48,120 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [12004] Com Port connected with Values COM11 
+2017/10/24 20:10:56,226 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [12004] ChannelSensorSelect Values 1,m18_sensor 
+2017/11/24 20:11:00,613 INFO  FLS_Measurement_ToolKit.MeasurementSelect [12004] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/11/24 20:11:27,675 INFO  FLS_Measurement_ToolKit.AddInfoWindow [12004] MeasurementSelect Values CustomerName: CCCL, OEM: CCCL, Location: Ariyalur, EquipmentTagNo: 232-22, Kilnsize: 222, NoOfbases: 1 ,ProjectContractNo: 232  
+2017/12/24 20:12:18,458 INFO  FLS_Measurement_ToolKit.GearInfoWindow [12004] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2323, HelixAngle: 13, Directionofrotation: Clockwise, Noofdrive: 12 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/17/24 20:17:16,751 INFO  FLS_Measurement_ToolKit.MainWindow [12004] Opening CSV Path... 
+2017/17/24 20:17:33,850 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [12004] Com Port connected with Values COM11 
+2017/17/24 20:17:37,520 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [12004] ChannelSensorSelect Values 1,m18_sensor 
+2017/17/24 20:17:39,597 INFO  FLS_Measurement_ToolKit.MeasurementSelect [12004] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/17/24 20:17:49,798 INFO  FLS_Measurement_ToolKit.AddInfoWindow [12004] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: 1, EquipmentTagNo: 1, Kilnsize: 1, NoOfbases: 1 ,ProjectContractNo: 1  
+2017/17/24 20:17:59,678 INFO  FLS_Measurement_ToolKit.GearInfoWindow [12004] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 1, NoOfteeth: 1, HelixAngle: 1, Directionofrotation: 1, Noofdrive: 1 ,Typeofspringplate: 1, Klinshellthicknessundergear: 1, RotaionType: CLOCKWISE 
+2017/18/24 20:18:19,623 ERROR FLS_Measurement_ToolKit.MainWindow [12004] System.IndexOutOfRangeException: There is no row at position 2250.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at FLS_Measurement_ToolKit.MainWindow.ComputeGraphPlotingValue(DataTable ScensorValueTable, String& maxScensorValue, String& minScensorValue) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 481 
+2017/42/24 20:42:10,296 INFO  FLS_Measurement_ToolKit.MainWindow [13528] Aplication started... 
+2017/42/24 20:42:56,384 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [13528] Com Port connected with Values COM11 
+2017/43/24 20:43:01,355 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [13528] ChannelSensorSelect Values 1,m18_sensor 
+2017/43/24 20:43:03,231 INFO  FLS_Measurement_ToolKit.MeasurementSelect [13528] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/43/24 20:43:09,289 INFO  FLS_Measurement_ToolKit.AddInfoWindow [13528] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: 1, EquipmentTagNo: 1, Kilnsize: 1, NoOfbases: 1 ,ProjectContractNo: 1  
+2017/43/24 20:43:16,588 INFO  FLS_Measurement_ToolKit.GearInfoWindow [13528] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 1, NoOfteeth: 1, HelixAngle: 1, Directionofrotation: 1, Noofdrive: 1 ,Typeofspringplate: 1, Klinshellthicknessundergear: 1, RotaionType: CLOCKWISE 
+2017/52/24 20:52:44,379 INFO  FLS_Measurement_ToolKit.MainWindow [7416] Aplication started... 
+2017/53/24 20:53:00,409 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [7416] Com Port connected with Values COM11 
+2017/53/24 20:53:04,196 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [7416] ChannelSensorSelect Values 1,m18_sensor 
+2017/53/24 20:53:05,834 INFO  FLS_Measurement_ToolKit.MeasurementSelect [7416] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/53/24 20:53:28,128 INFO  FLS_Measurement_ToolKit.AddInfoWindow [7416] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/53/24 20:53:58,518 INFO  FLS_Measurement_ToolKit.GearInfoWindow [7416] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/54/24 20:54:10,843 ERROR FLS_Measurement_ToolKit.MainWindow [7416] System.IndexOutOfRangeException: There is no row at position 1500.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at FLS_Measurement_ToolKit.MainWindow.ComputeGraphPlotingValue(DataTable ScensorValueTable, String& maxScensorValue, String& minScensorValue) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 481 
+2017/09/24 22:09:49,923 INFO  FLS_Measurement_ToolKit.MainWindow [7004] Aplication started... 
+2017/16/24 22:16:03,880 INFO  FLS_Measurement_ToolKit.MainWindow [12412] Aplication started... 
+2017/22/24 22:22:29,035 INFO  FLS_Measurement_ToolKit.MainWindow [14132] Aplication started... 
+2017/22/24 22:22:46,308 INFO  FLS_Measurement_ToolKit.MainWindow [14132] Opening CSV Path... 
+2017/23/24 22:23:11,067 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [14132] ChannelSensorSelect Values 1,m18_sensor 
+2017/23/24 22:23:14,445 INFO  FLS_Measurement_ToolKit.MeasurementSelect [14132] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/34/24 22:34:29,626 INFO  FLS_Measurement_ToolKit.MainWindow [14368] Aplication started... 
+2017/35/24 22:35:16,326 INFO  FLS_Measurement_ToolKit.MainWindow [14368] Opening CSV Path... 
+2017/35/24 22:35:42,804 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [14368] ChannelSensorSelect Values 1,m18_sensor 
+2017/35/24 22:35:46,021 INFO  FLS_Measurement_ToolKit.MeasurementSelect [14368] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/44/24 23:44:44,336 INFO  FLS_Measurement_ToolKit.MainWindow [12640] Aplication started... 
+2017/49/24 23:49:23,578 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [12640] Com Port unable connect with Values COM11, Exception:System.TimeoutException: The operation has timed out.
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Ports.SerialPort.InternalRead(Char[] buffer, Int32 offset, Int32 count, Int32 timeout, Boolean countMultiByteCharsAsOne)
+   at System.IO.Ports.SerialPort.ReadTo(String value)
+   at System.IO.Ports.SerialPort.ReadLine()
+   at FLS_Measurement_ToolKit.COMPortSelectionWindow.btnOk_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\COMPortSelectionWindow.xaml.cs:line 64   
+2017/49/24 23:49:39,335 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [12640] Com Port unable connect with Values COM11, Exception:System.TimeoutException: The operation has timed out.
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Ports.SerialPort.InternalRead(Char[] buffer, Int32 offset, Int32 count, Int32 timeout, Boolean countMultiByteCharsAsOne)
+   at System.IO.Ports.SerialPort.ReadTo(String value)
+   at System.IO.Ports.SerialPort.ReadLine()
+   at FLS_Measurement_ToolKit.COMPortSelectionWindow.btnOk_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\COMPortSelectionWindow.xaml.cs:line 64   
+2017/49/24 23:49:54,147 INFO  FLS_Measurement_ToolKit.MainWindow [15120] Aplication started... 
+2017/50/24 23:50:19,377 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [15120] Com Port connected with Values COM11 
+2017/50/24 23:50:23,826 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [15120] ChannelSensorSelect Values 1,m18_sensor 
+2017/50/24 23:50:26,238 INFO  FLS_Measurement_ToolKit.MeasurementSelect [15120] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/50/24 23:50:30,488 INFO  FLS_Measurement_ToolKit.AddInfoWindow [15120] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/51/24 23:51:27,595 INFO  FLS_Measurement_ToolKit.MainWindow [11932] Aplication started... 
+2017/51/24 23:51:58,737 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [11932] Com Port unable connect with Values COM11, Exception:System.TimeoutException: The operation has timed out.
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Ports.SerialPort.InternalRead(Char[] buffer, Int32 offset, Int32 count, Int32 timeout, Boolean countMultiByteCharsAsOne)
+   at System.IO.Ports.SerialPort.ReadTo(String value)
+   at System.IO.Ports.SerialPort.ReadLine()
+   at FLS_Measurement_ToolKit.COMPortSelectionWindow.btnOk_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\COMPortSelectionWindow.xaml.cs:line 64   
+2017/52/24 23:52:23,760 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [11932] Com Port connected with Values COM11 
+2017/52/24 23:52:31,986 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [11932] ChannelSensorSelect Values 1,m18_sensor 
+2017/52/24 23:52:37,150 INFO  FLS_Measurement_ToolKit.MeasurementSelect [11932] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/53/24 23:53:15,808 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [11932] Com Port connected with Values COM11 
+2017/53/24 23:53:20,086 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [11932] ChannelSensorSelect Values 1,m18_sensor 
+2017/53/24 23:53:24,847 INFO  FLS_Measurement_ToolKit.MeasurementSelect [11932] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/53/24 23:53:27,139 INFO  FLS_Measurement_ToolKit.AddInfoWindow [11932] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/53/24 23:53:33,220 INFO  FLS_Measurement_ToolKit.GearInfoWindow [11932] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 
+2017/58/24 23:58:17,680 INFO  FLS_Measurement_ToolKit.MainWindow [8540] Aplication started... 
+2017/58/24 23:58:47,485 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [8540] Com Port connected with Values COM11 
+2017/58/24 23:58:59,282 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [8540] ChannelSensorSelect Values 1,m18_sensor 
+2017/59/24 23:59:02,680 INFO  FLS_Measurement_ToolKit.MeasurementSelect [8540] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/59/24 23:59:07,427 INFO  FLS_Measurement_ToolKit.AddInfoWindow [8540] MeasurementSelect Values CustomerName: CCCL, OEM: CCL, Location: Ariyalur, EquipmentTagNo: 123123, Kilnsize: 111, NoOfbases: 4 ,ProjectContractNo: 244-33  
+2017/59/24 23:59:14,828 INFO  FLS_Measurement_ToolKit.GearInfoWindow [8540] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 22, NoOfteeth: 2134, HelixAngle: 23, Directionofrotation: Clockwise, Noofdrive: 3 ,Typeofspringplate: Y, Klinshellthicknessundergear: 12, RotaionType: CLOCKWISE 

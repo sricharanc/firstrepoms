@@ -1,0 +1,251 @@
+2017/28/01 16:28:25,866 INFO  FLS_Measurement_ToolKit.MainWindow [7920] Aplication started... 
+2017/28/01 16:28:31,163 INFO  FLS_Measurement_ToolKit.MainWindow [7920] Opening CSV Path... 
+2017/28/01 16:28:41,688 INFO  FLS_Measurement_ToolKit.MainWindow [7920] Opening CSV Path... 
+2017/29/01 16:29:05,891 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [7920] ChannelSensorSelect Values 1,m18_sensor 
+2017/29/01 16:29:20,987 INFO  FLS_Measurement_ToolKit.MeasurementSelect [7920] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 100  
+2017/30/01 16:30:17,464 INFO  FLS_Measurement_ToolKit.MainWindow [7920] Opening CSV Path... 
+2017/30/01 16:30:24,514 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [7920] ChannelSensorSelect Values 1,m18_sensor 
+2017/30/01 16:30:30,541 INFO  FLS_Measurement_ToolKit.MeasurementSelect [7920] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 12  
+2017/33/01 16:33:00,581 INFO  FLS_Measurement_ToolKit.MainWindow [5136] Aplication started... 
+2017/33/01 16:33:06,453 INFO  FLS_Measurement_ToolKit.MainWindow [5136] Opening CSV Path... 
+2017/33/01 16:33:14,908 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [5136] ChannelSensorSelect Values 1,m18_sensor 
+2017/33/01 16:33:17,253 INFO  FLS_Measurement_ToolKit.MeasurementSelect [5136] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 0  
+2017/33/01 16:33:33,236 INFO  FLS_Measurement_ToolKit.MainWindow [5136] Opening CSV Path... 
+2017/33/01 16:33:43,787 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [5136] ChannelSensorSelect Values 1,m18_sensor 
+2017/33/01 16:33:46,737 INFO  FLS_Measurement_ToolKit.MeasurementSelect [5136] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 0  
+2017/47/01 16:47:03,859 INFO  FLS_Measurement_ToolKit.MainWindow [8588] Aplication started... 
+2017/47/01 16:47:28,255 INFO  FLS_Measurement_ToolKit.MainWindow [8588] Opening CSV Path... 
+2017/48/01 16:48:02,006 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [8588] Com Port connected with Values COM11 
+2017/48/01 16:48:11,451 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [8588] ChannelSensorSelect Values 1,m18_sensor 
+2017/48/01 16:48:23,379 INFO  FLS_Measurement_ToolKit.MeasurementSelect [8588] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 0  
+2017/48/01 16:48:31,876 INFO  FLS_Measurement_ToolKit.AddInfoWindow [8588] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: 1, EquipmentTagNo: 1, Kilnsize: 1, NoOfbases: 1 ,ProjectContractNo: 1  
+2017/49/01 16:49:43,349 INFO  FLS_Measurement_ToolKit.GearInfoWindow [8588] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 1, NoOfteeth: 1, HelixAngle: 1, Directionofrotation: 1, Noofdrive: 1 ,Typeofspringplate: 1, Klinshellthicknessundergear: 1, RotaionType: CLOCKWISE 
+2017/50/01 16:50:05,075 ERROR FLS_Measurement_ToolKit.ReadWriteSerialPort [8588] System.TimeoutException: The operation has timed out.
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Ports.SerialPort.InternalRead(Char[] buffer, Int32 offset, Int32 count, Int32 timeout, Boolean countMultiByteCharsAsOne)
+   at System.IO.Ports.SerialPort.ReadTo(String value)
+   at System.IO.Ports.SerialPort.ReadLine()
+   at FLS_Measurement_ToolKit.ReadWriteSerialPort.<btnStart_Click>b__3_1() in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\ReadWriteSerialPort.xaml.cs:line 79 
+2017/49/01 17:49:09,487 INFO  FLS_Measurement_ToolKit.MainWindow [9696] Aplication started... 
+2017/50/01 17:50:13,692 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [9696] Com Port unable connect with Values COM11, Exception:System.TimeoutException: The operation has timed out.
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Ports.SerialPort.InternalRead(Char[] buffer, Int32 offset, Int32 count, Int32 timeout, Boolean countMultiByteCharsAsOne)
+   at System.IO.Ports.SerialPort.ReadTo(String value)
+   at System.IO.Ports.SerialPort.ReadLine()
+   at FLS_Measurement_ToolKit.COMPortSelectionWindow.btnOk_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\COMPortSelectionWindow.xaml.cs:line 66   
+2017/50/01 17:50:42,604 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [9696] Com Port connected with Values COM11 
+2017/51/01 17:51:12,720 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [9696] Com Port connected with Values COM11 
+2017/51/01 17:51:51,796 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [9696] ChannelSensorSelect Values 1,m12_sensor 
+2017/51/01 17:51:57,590 INFO  FLS_Measurement_ToolKit.MeasurementSelect [9696] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 0  
+2017/52/01 17:52:05,456 INFO  FLS_Measurement_ToolKit.AddInfoWindow [9696] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: 1, EquipmentTagNo: 1, Kilnsize: 1, NoOfbases: 1 ,ProjectContractNo: 1  
+2017/52/01 17:52:17,585 INFO  FLS_Measurement_ToolKit.GearInfoWindow [9696] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: 1, NoOfteeth: 1, HelixAngle: 1, Directionofrotation: 1, Noofdrive: 1 ,Typeofspringplate: 1, Klinshellthicknessundergear: 1, RotaionType: CLOCKWISE 
+2017/58/01 17:58:02,219 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [9696] Com Port connected with Values COM11 
+2017/58/01 17:58:06,543 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [9696] ChannelSensorSelect Values 1,m12_sensor 
+2017/58/01 17:58:10,817 INFO  FLS_Measurement_ToolKit.MeasurementSelect [9696] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 0  
+2017/58/01 17:58:15,223 INFO  FLS_Measurement_ToolKit.AddInfoWindow [9696] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: 1, EquipmentTagNo: 1, Kilnsize: 1, NoOfbases: 1 ,ProjectContractNo: 1  
+2017/58/01 17:58:22,209 INFO  FLS_Measurement_ToolKit.GearInfoWindow [9696] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: 1, HelixAngle: 1, Directionofrotation: 1, Noofdrive: 1 ,Typeofspringplate: 1, Klinshellthicknessundergear: 1, RotaionType: CLOCKWISE 
+2017/00/01 18:00:49,506 INFO  FLS_Measurement_ToolKit.MainWindow [9696] Opening CSV Path... 
+2017/01/01 18:01:29,136 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [9696] ChannelSensorSelect Values 1,m12_sensor 
+2017/01/01 18:01:34,014 INFO  FLS_Measurement_ToolKit.MeasurementSelect [9696] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 0  
+2017/05/01 18:05:29,278 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [9696] Com Port unable connect with Values COM11, Exception:System.IO.IOException: The port 'COM11' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at FLS_Measurement_ToolKit.COMPortSelectionWindow.btnOk_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\COMPortSelectionWindow.xaml.cs:line 62   
+2017/09/01 18:09:41,241 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [9696] Com Port connected with Values COM11 
+2017/10/01 18:10:07,136 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [9696] Com Port unable connect with Values COM11, Exception:System.TimeoutException: The operation has timed out.
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Ports.SerialPort.InternalRead(Char[] buffer, Int32 offset, Int32 count, Int32 timeout, Boolean countMultiByteCharsAsOne)
+   at System.IO.Ports.SerialPort.ReadTo(String value)
+   at System.IO.Ports.SerialPort.ReadLine()
+   at FLS_Measurement_ToolKit.COMPortSelectionWindow.btnOk_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\COMPortSelectionWindow.xaml.cs:line 66   
+2017/10/01 18:10:49,377 INFO  FLS_Measurement_ToolKit.MainWindow [8656] Aplication started... 
+2017/11/01 18:11:19,473 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [8656] Com Port connected with Values COM11 
+2017/11/01 18:11:26,938 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [8656] ChannelSensorSelect Values 1,m12_sensor 
+2017/11/01 18:11:31,333 INFO  FLS_Measurement_ToolKit.MeasurementSelect [8656] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 0  
+2017/11/01 18:11:39,518 INFO  FLS_Measurement_ToolKit.AddInfoWindow [8656] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/11/01 18:11:58,489 INFO  FLS_Measurement_ToolKit.GearInfoWindow [8656] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/15/01 18:15:17,939 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [8656] Com Port connected with Values COM11 
+2017/15/01 18:15:30,078 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [8656] ChannelSensorSelect Values 1,m12_sensor 
+2017/15/01 18:15:36,976 INFO  FLS_Measurement_ToolKit.MeasurementSelect [8656] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 0  
+2017/15/01 18:15:42,785 INFO  FLS_Measurement_ToolKit.AddInfoWindow [8656] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/15/01 18:15:52,768 INFO  FLS_Measurement_ToolKit.GearInfoWindow [8656] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/36/01 19:36:36,248 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [8656] Com Port connected with Values COM11 
+2017/36/01 19:36:39,866 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [8656] ChannelSensorSelect Values 1,m12_sensor 
+2017/36/01 19:36:42,724 INFO  FLS_Measurement_ToolKit.MeasurementSelect [8656] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 0  
+2017/36/01 19:36:49,323 INFO  FLS_Measurement_ToolKit.AddInfoWindow [8656] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/37/01 19:37:00,707 INFO  FLS_Measurement_ToolKit.GearInfoWindow [8656] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/40/01 19:40:32,967 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [8656] Com Port connected with Values COM11 
+2017/40/01 19:40:42,250 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [8656] ChannelSensorSelect Values 1,m12_sensor 
+2017/40/01 19:40:49,071 INFO  FLS_Measurement_ToolKit.MeasurementSelect [8656] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 0  
+2017/40/01 19:40:59,164 INFO  FLS_Measurement_ToolKit.AddInfoWindow [8656] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/41/01 19:41:11,813 INFO  FLS_Measurement_ToolKit.GearInfoWindow [8656] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive: 1 ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/43/01 19:43:43,270 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [8656] Com Port connected with Values COM11 
+2017/43/01 19:43:55,765 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [8656] ChannelSensorSelect Values 1,m12_sensor 
+2017/44/01 19:44:04,938 INFO  FLS_Measurement_ToolKit.MeasurementSelect [8656] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 0  
+2017/44/01 19:44:17,671 INFO  FLS_Measurement_ToolKit.AddInfoWindow [8656] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/44/01 19:44:48,210 INFO  FLS_Measurement_ToolKit.GearInfoWindow [8656] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/47/01 19:47:35,639 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [8656] Com Port unable connect with Values COM11, Exception:System.TimeoutException: The operation has timed out.
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Ports.SerialPort.InternalRead(Char[] buffer, Int32 offset, Int32 count, Int32 timeout, Boolean countMultiByteCharsAsOne)
+   at System.IO.Ports.SerialPort.ReadTo(String value)
+   at System.IO.Ports.SerialPort.ReadLine()
+   at FLS_Measurement_ToolKit.COMPortSelectionWindow.btnOk_Click(Object sender, RoutedEventArgs e) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\COMPortSelectionWindow.xaml.cs:line 66   
+2017/47/01 19:47:58,434 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [8656] Com Port connected with Values COM11 
+2017/48/01 19:48:43,324 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [8656] Com Port connected with Values COM11 
+2017/48/01 19:48:51,318 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [8656] ChannelSensorSelect Values 1,m12_sensor 
+2017/48/01 19:48:56,046 INFO  FLS_Measurement_ToolKit.MeasurementSelect [8656] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 0  
+2017/49/01 19:49:05,735 INFO  FLS_Measurement_ToolKit.AddInfoWindow [8656] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/49/01 19:49:29,113 INFO  FLS_Measurement_ToolKit.GearInfoWindow [8656] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/51/01 19:51:47,488 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [8656] Com Port connected with Values COM11 
+2017/51/01 19:51:55,394 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [8656] ChannelSensorSelect Values 1,m12_sensor 
+2017/52/01 19:52:03,427 INFO  FLS_Measurement_ToolKit.MeasurementSelect [8656] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 0  
+2017/52/01 19:52:16,095 INFO  FLS_Measurement_ToolKit.AddInfoWindow [8656] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/52/01 19:52:35,557 INFO  FLS_Measurement_ToolKit.GearInfoWindow [8656] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/54/01 19:54:28,343 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [8656] Com Port connected with Values COM11 
+2017/54/01 19:54:39,137 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [8656] ChannelSensorSelect Values 1,m12_sensor 
+2017/54/01 19:54:42,498 INFO  FLS_Measurement_ToolKit.MeasurementSelect [8656] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 0  
+2017/54/01 19:54:51,657 INFO  FLS_Measurement_ToolKit.AddInfoWindow [8656] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/55/01 19:55:02,773 INFO  FLS_Measurement_ToolKit.GearInfoWindow [8656] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/05/01 20:05:21,589 INFO  FLS_Measurement_ToolKit.MainWindow [7004] Aplication started... 
+2017/05/01 20:05:43,339 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [7004] Com Port connected with Values COM11 
+2017/05/01 20:05:54,638 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [7004] ChannelSensorSelect Values 1,m12_sensor 
+2017/05/01 20:05:58,617 INFO  FLS_Measurement_ToolKit.MeasurementSelect [7004] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 0  
+2017/06/01 20:06:07,449 INFO  FLS_Measurement_ToolKit.AddInfoWindow [7004] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/06/01 20:06:28,843 INFO  FLS_Measurement_ToolKit.GearInfoWindow [7004] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/08/01 20:08:37,682 INFO  FLS_Measurement_ToolKit.MainWindow [8696] Aplication started... 
+2017/08/01 20:08:55,815 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [8696] Com Port connected with Values COM11 
+2017/09/01 20:09:10,353 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [8696] ChannelSensorSelect Values 1,m12_sensor 
+2017/09/01 20:09:15,194 INFO  FLS_Measurement_ToolKit.MeasurementSelect [8696] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 0  
+2017/09/01 20:09:22,132 INFO  FLS_Measurement_ToolKit.AddInfoWindow [8696] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/09/01 20:09:39,290 INFO  FLS_Measurement_ToolKit.GearInfoWindow [8696] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/11/01 20:11:37,775 INFO  FLS_Measurement_ToolKit.MainWindow [1476] Aplication started... 
+2017/12/01 20:12:04,156 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [1476] Com Port connected with Values COM11 
+2017/12/01 20:12:23,421 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [1476] ChannelSensorSelect Values 1,m12_sensor 
+2017/12/01 20:12:38,706 INFO  FLS_Measurement_ToolKit.MeasurementSelect [1476] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 100  
+2017/12/01 20:12:50,209 INFO  FLS_Measurement_ToolKit.AddInfoWindow [1476] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/13/01 20:13:02,247 INFO  FLS_Measurement_ToolKit.GearInfoWindow [1476] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/16/01 20:16:45,459 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [1476] Com Port connected with Values COM11 
+2017/16/01 20:16:53,307 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [1476] ChannelSensorSelect Values 1,m12_sensor 
+2017/17/01 20:17:16,861 INFO  FLS_Measurement_ToolKit.MeasurementSelect [1476] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 100  
+2017/17/01 20:17:25,747 INFO  FLS_Measurement_ToolKit.AddInfoWindow [1476] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/17/01 20:17:47,160 INFO  FLS_Measurement_ToolKit.GearInfoWindow [1476] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/19/01 20:19:19,788 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [1476] Com Port connected with Values COM11 
+2017/19/01 20:19:28,893 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [1476] ChannelSensorSelect Values 1,m12_sensor 
+2017/19/01 20:19:36,128 INFO  FLS_Measurement_ToolKit.MeasurementSelect [1476] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 100  
+2017/19/01 20:19:42,834 INFO  FLS_Measurement_ToolKit.AddInfoWindow [1476] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/19/01 20:19:55,243 INFO  FLS_Measurement_ToolKit.GearInfoWindow [1476] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/21/01 20:21:33,705 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [1476] Com Port connected with Values COM11 
+2017/21/01 20:21:41,965 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [1476] ChannelSensorSelect Values 1,m12_sensor 
+2017/21/01 20:21:49,944 INFO  FLS_Measurement_ToolKit.MeasurementSelect [1476] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 100  
+2017/21/01 20:21:55,701 INFO  FLS_Measurement_ToolKit.AddInfoWindow [1476] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/22/01 20:22:14,013 INFO  FLS_Measurement_ToolKit.GearInfoWindow [1476] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/28/01 20:28:30,776 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [1476] Com Port connected with Values COM11 
+2017/28/01 20:28:39,615 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [1476] ChannelSensorSelect Values 1,m12_sensor 
+2017/28/01 20:28:53,718 INFO  FLS_Measurement_ToolKit.MeasurementSelect [1476] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 100  
+2017/29/01 20:29:03,865 INFO  FLS_Measurement_ToolKit.AddInfoWindow [1476] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/29/01 20:29:25,809 INFO  FLS_Measurement_ToolKit.GearInfoWindow [1476] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/31/01 20:31:00,767 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [1476] Com Port connected with Values COM11 
+2017/31/01 20:31:09,483 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [1476] ChannelSensorSelect Values 1,m12_sensor 
+2017/31/01 20:31:16,716 INFO  FLS_Measurement_ToolKit.MeasurementSelect [1476] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 100  
+2017/31/01 20:31:23,082 INFO  FLS_Measurement_ToolKit.AddInfoWindow [1476] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/31/01 20:31:35,463 INFO  FLS_Measurement_ToolKit.GearInfoWindow [1476] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/33/01 20:33:22,117 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [1476] Com Port connected with Values COM11 
+2017/33/01 20:33:29,102 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [1476] ChannelSensorSelect Values 1,m12_sensor 
+2017/33/01 20:33:34,934 INFO  FLS_Measurement_ToolKit.MeasurementSelect [1476] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 100  
+2017/33/01 20:33:41,415 INFO  FLS_Measurement_ToolKit.AddInfoWindow [1476] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/33/01 20:33:54,457 INFO  FLS_Measurement_ToolKit.GearInfoWindow [1476] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/38/01 20:38:18,957 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [1476] Com Port connected with Values COM11 
+2017/38/01 20:38:22,216 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [1476] ChannelSensorSelect Values 1,m18_sensor 
+2017/38/01 20:38:26,866 INFO  FLS_Measurement_ToolKit.MeasurementSelect [1476] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 100  
+2017/38/01 20:38:37,322 INFO  FLS_Measurement_ToolKit.AddInfoWindow [1476] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: 1, EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/38/01 20:38:45,563 INFO  FLS_Measurement_ToolKit.GearInfoWindow [1476] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/40/01 20:40:03,960 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [1476] Com Port connected with Values COM11 
+2017/40/01 20:40:08,195 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [1476] ChannelSensorSelect Values 1,m18_sensor 
+2017/40/01 20:40:12,656 INFO  FLS_Measurement_ToolKit.MeasurementSelect [1476] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 111  
+2017/40/01 20:40:16,946 INFO  FLS_Measurement_ToolKit.AddInfoWindow [1476] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/40/01 20:40:23,300 INFO  FLS_Measurement_ToolKit.GearInfoWindow [1476] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/43/01 20:43:26,759 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [1476] Com Port connected with Values COM11 
+2017/43/01 20:43:32,004 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [1476] ChannelSensorSelect Values 1,m18_sensor 
+2017/43/01 20:43:37,994 INFO  FLS_Measurement_ToolKit.MeasurementSelect [1476] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 122  
+2017/43/01 20:43:43,198 INFO  FLS_Measurement_ToolKit.AddInfoWindow [1476] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/43/01 20:43:51,009 INFO  FLS_Measurement_ToolKit.GearInfoWindow [1476] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/48/01 20:48:37,214 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [1476] Com Port connected with Values COM11 
+2017/48/01 20:48:41,415 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [1476] ChannelSensorSelect Values 1,m18_sensor 
+2017/48/01 20:48:46,072 INFO  FLS_Measurement_ToolKit.MeasurementSelect [1476] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 111  
+2017/48/01 20:48:53,296 INFO  FLS_Measurement_ToolKit.AddInfoWindow [1476] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/48/01 20:48:59,562 INFO  FLS_Measurement_ToolKit.GearInfoWindow [1476] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/51/01 20:51:02,572 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [1476] Com Port connected with Values COM11 
+2017/51/01 20:51:08,887 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [1476] ChannelSensorSelect Values 1,m18_sensor 
+2017/51/01 20:51:12,811 INFO  FLS_Measurement_ToolKit.MeasurementSelect [1476] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 114  
+2017/51/01 20:51:20,719 INFO  FLS_Measurement_ToolKit.AddInfoWindow [1476] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/51/01 20:51:26,743 INFO  FLS_Measurement_ToolKit.GearInfoWindow [1476] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/53/01 20:53:00,552 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [1476] Com Port connected with Values COM11 
+2017/53/01 20:53:04,100 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [1476] ChannelSensorSelect Values 1,m18_sensor 
+2017/53/01 20:53:08,526 INFO  FLS_Measurement_ToolKit.MeasurementSelect [1476] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 111  
+2017/53/01 20:53:13,368 INFO  FLS_Measurement_ToolKit.AddInfoWindow [1476] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/53/01 20:53:22,093 INFO  FLS_Measurement_ToolKit.GearInfoWindow [1476] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/55/01 20:55:16,553 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [1476] Com Port connected with Values COM11 
+2017/55/01 20:55:19,937 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [1476] ChannelSensorSelect Values 1,m18_sensor 
+2017/55/01 20:55:23,984 INFO  FLS_Measurement_ToolKit.MeasurementSelect [1476] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 114  
+2017/55/01 20:55:29,502 INFO  FLS_Measurement_ToolKit.AddInfoWindow [1476] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: 1, EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/55/01 20:55:36,490 INFO  FLS_Measurement_ToolKit.GearInfoWindow [1476] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/02/01 21:02:32,973 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [1476] Com Port connected with Values COM11 
+2017/02/01 21:02:36,229 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [1476] ChannelSensorSelect Values 1,m18_sensor 
+2017/02/01 21:02:40,255 INFO  FLS_Measurement_ToolKit.MeasurementSelect [1476] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 111  
+2017/02/01 21:02:44,470 INFO  FLS_Measurement_ToolKit.AddInfoWindow [1476] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/02/01 21:02:52,668 INFO  FLS_Measurement_ToolKit.GearInfoWindow [1476] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/04/01 21:04:24,983 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [1476] Com Port connected with Values COM11 
+2017/04/01 21:04:28,838 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [1476] ChannelSensorSelect Values 1,m18_sensor 
+2017/04/01 21:04:33,752 INFO  FLS_Measurement_ToolKit.MeasurementSelect [1476] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 114  
+2017/04/01 21:04:37,564 INFO  FLS_Measurement_ToolKit.AddInfoWindow [1476] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/04/01 21:04:43,586 INFO  FLS_Measurement_ToolKit.GearInfoWindow [1476] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/05/01 21:05:56,352 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [1476] Com Port connected with Values COM11 
+2017/05/01 21:05:59,304 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [1476] ChannelSensorSelect Values 1,m18_sensor 
+2017/06/01 21:06:03,246 INFO  FLS_Measurement_ToolKit.MeasurementSelect [1476] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 114  
+2017/06/01 21:06:08,505 INFO  FLS_Measurement_ToolKit.AddInfoWindow [1476] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/06/01 21:06:13,741 INFO  FLS_Measurement_ToolKit.GearInfoWindow [1476] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/08/01 21:08:08,280 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [1476] Com Port connected with Values COM11 
+2017/08/01 21:08:11,626 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [1476] ChannelSensorSelect Values 1,m18_sensor 
+2017/08/01 21:08:15,162 INFO  FLS_Measurement_ToolKit.MeasurementSelect [1476] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 114  
+2017/08/01 21:08:18,978 INFO  FLS_Measurement_ToolKit.AddInfoWindow [1476] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/08/01 21:08:25,247 INFO  FLS_Measurement_ToolKit.GearInfoWindow [1476] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/11/01 21:11:21,949 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [1476] Com Port connected with Values COM11 
+2017/11/01 21:11:25,945 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [1476] ChannelSensorSelect Values 1,m18_sensor 
+2017/11/01 21:11:29,440 INFO  FLS_Measurement_ToolKit.MeasurementSelect [1476] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 114  
+2017/11/01 21:11:33,299 INFO  FLS_Measurement_ToolKit.AddInfoWindow [1476] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/11/01 21:11:38,748 INFO  FLS_Measurement_ToolKit.GearInfoWindow [1476] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/13/01 21:13:11,794 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [1476] Com Port connected with Values COM11 
+2017/13/01 21:13:14,812 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [1476] ChannelSensorSelect Values 1,m18_sensor 
+2017/13/01 21:13:20,491 INFO  FLS_Measurement_ToolKit.MeasurementSelect [1476] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 114  
+2017/13/01 21:13:24,795 INFO  FLS_Measurement_ToolKit.AddInfoWindow [1476] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/13/01 21:13:30,922 INFO  FLS_Measurement_ToolKit.GearInfoWindow [1476] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 0, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/14/01 21:14:52,918 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [1476] Com Port connected with Values COM11 
+2017/14/01 21:14:56,497 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [1476] ChannelSensorSelect Values 1,m18_sensor 
+2017/15/01 21:15:01,603 INFO  FLS_Measurement_ToolKit.MeasurementSelect [1476] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 114  
+2017/15/01 21:15:06,587 INFO  FLS_Measurement_ToolKit.AddInfoWindow [1476] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/15/01 21:15:12,580 INFO  FLS_Measurement_ToolKit.GearInfoWindow [1476] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/19/01 21:19:25,022 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [1476] Com Port connected with Values COM11 
+2017/19/01 21:19:28,486 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [1476] ChannelSensorSelect Values 1,m18_sensor 
+2017/19/01 21:19:32,197 INFO  FLS_Measurement_ToolKit.MeasurementSelect [1476] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 114  
+2017/19/01 21:19:36,098 INFO  FLS_Measurement_ToolKit.AddInfoWindow [1476] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/19/01 21:19:44,615 INFO  FLS_Measurement_ToolKit.GearInfoWindow [1476] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/22/01 21:22:29,426 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [1476] Com Port connected with Values COM11 
+2017/22/01 21:22:32,782 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [1476] ChannelSensorSelect Values 1,m18_sensor 
+2017/22/01 21:22:40,754 INFO  FLS_Measurement_ToolKit.MeasurementSelect [1476] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 114  
+2017/22/01 21:22:46,227 INFO  FLS_Measurement_ToolKit.AddInfoWindow [1476] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/23/01 21:23:02,248 INFO  FLS_Measurement_ToolKit.GearInfoWindow [1476] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/35/01 21:35:14,375 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [1476] Com Port connected with Values COM11 
+2017/35/01 21:35:19,687 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [1476] ChannelSensorSelect Values 1,m18_sensor 
+2017/35/01 21:35:25,133 INFO  FLS_Measurement_ToolKit.MeasurementSelect [1476] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 112  
+2017/35/01 21:35:29,078 INFO  FLS_Measurement_ToolKit.AddInfoWindow [1476] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/35/01 21:35:36,569 INFO  FLS_Measurement_ToolKit.GearInfoWindow [1476] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/37/01 21:37:40,580 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [1476] Com Port connected with Values COM11 
+2017/37/01 21:37:45,136 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [1476] ChannelSensorSelect Values 1,m18_sensor 
+2017/37/01 21:37:52,912 INFO  FLS_Measurement_ToolKit.MeasurementSelect [1476] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 112  
+2017/37/01 21:37:58,497 INFO  FLS_Measurement_ToolKit.AddInfoWindow [1476] MeasurementSelect Values CustomerName: 1, OEM: 1, Location: , EquipmentTagNo: , Kilnsize: , NoOfbases:  ,ProjectContractNo: 1  
+2017/38/01 21:38:11,221 INFO  FLS_Measurement_ToolKit.GearInfoWindow [1476] MeasurementSelect Values Typeofgear: RIM, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 1, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 

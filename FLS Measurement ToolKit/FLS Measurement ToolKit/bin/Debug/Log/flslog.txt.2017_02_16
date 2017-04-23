@@ -1,0 +1,62 @@
+2017/42/16 23:42:32,767 INFO  FLS_Measurement_ToolKit.MainWindow [6808] Aplication started... 
+2017/42/16 23:42:43,749 INFO  FLS_Measurement_ToolKit.MainWindow [6808] Opening CSV Path... 
+2017/42/16 23:42:55,991 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [6808] ChannelSensorSelect Values 2,rectangular_sensor 
+2017/43/16 23:43:15,058 INFO  FLS_Measurement_ToolKit.MeasurementSelect [6808] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/45/16 23:45:32,418 INFO  FLS_Measurement_ToolKit.MainWindow [2244] Aplication started... 
+2017/45/16 23:45:42,348 INFO  FLS_Measurement_ToolKit.MainWindow [2244] Opening CSV Path... 
+2017/45/16 23:45:52,571 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [2244] ChannelSensorSelect Values 2,rectangular_sensor 
+2017/46/16 23:46:05,092 INFO  FLS_Measurement_ToolKit.MeasurementSelect [2244] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/46/16 23:46:24,500 INFO  FLS_Measurement_ToolKit.GearInfoWindow [2244] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: 54, NoOfteeth: 8789, HelixAngle: 897, Directionofrotation: 98798, Noofdrive: 789 ,Typeofspringplate: 78, Klinshellthicknessundergear: 798, RotaionType: CLOCKWISE 
+2017/46/16 23:46:58,156 INFO  FLS_Measurement_ToolKit.MainWindow [5780] Aplication started... 
+2017/47/16 23:47:06,516 INFO  FLS_Measurement_ToolKit.MainWindow [5780] Opening CSV Path... 
+2017/47/16 23:47:16,116 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [5780] ChannelSensorSelect Values 3,rectangular_sensor 
+2017/47/16 23:47:21,428 INFO  FLS_Measurement_ToolKit.MeasurementSelect [5780] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/47/16 23:47:40,999 INFO  FLS_Measurement_ToolKit.GearInfoWindow [5780] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 12, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/48/16 23:48:12,476 ERROR FLS_Measurement_ToolKit.MainWindow [5780] System.InvalidCastException: Specified cast is not valid.
+   at System.Data.DataRowExtensions.UnboxT`1.ValueField(Object value)
+   at System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   at FLS_Measurement_ToolKit.MainWindow.<>c.<GetGearTeethvalue>b__10_0(DataRow r) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 390
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at FLS_Measurement_ToolKit.MainWindow.GetGearTeethvalue(DataTable ScensorValueTable) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 390
+   at FLS_Measurement_ToolKit.MainWindow.OnlineImportCsvFileAndDisplayRadialGraph(String filename) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 321 
+2017/48/16 23:48:19,071 INFO  FLS_Measurement_ToolKit.MainWindow [5780] Opening CSV Path... 
+2017/48/16 23:48:30,102 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [5780] ChannelSensorSelect Values 1,rectangular_sensor 
+2017/48/16 23:48:37,195 INFO  FLS_Measurement_ToolKit.MeasurementSelect [5780] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/48/16 23:48:40,427 INFO  FLS_Measurement_ToolKit.GearInfoWindow [5780] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 12, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/49/16 23:49:21,588 ERROR FLS_Measurement_ToolKit.MainWindow [5780] System.InvalidCastException: Specified cast is not valid.
+   at System.Data.DataRowExtensions.UnboxT`1.ValueField(Object value)
+   at System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   at FLS_Measurement_ToolKit.MainWindow.<>c.<GetGearTeethvalue>b__10_0(DataRow r) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 390
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at FLS_Measurement_ToolKit.MainWindow.GetGearTeethvalue(DataTable ScensorValueTable) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 390
+   at FLS_Measurement_ToolKit.MainWindow.OnlineImportCsvFileAndDisplayRadialGraph(String filename) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 321 
+2017/49/16 23:49:25,229 INFO  FLS_Measurement_ToolKit.MainWindow [5780] Opening CSV Path... 
+2017/49/16 23:49:35,143 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [5780] ChannelSensorSelect Values 1,rectangular_sensor 
+2017/49/16 23:49:41,076 INFO  FLS_Measurement_ToolKit.MeasurementSelect [5780] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/49/16 23:49:43,398 INFO  FLS_Measurement_ToolKit.GearInfoWindow [5780] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 12, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/50/16 23:50:03,294 ERROR FLS_Measurement_ToolKit.MainWindow [5780] System.InvalidCastException: Specified cast is not valid.
+   at System.Data.DataRowExtensions.UnboxT`1.ValueField(Object value)
+   at System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   at FLS_Measurement_ToolKit.MainWindow.<>c.<GetGearTeethvalue>b__10_0(DataRow r) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 390
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at FLS_Measurement_ToolKit.MainWindow.GetGearTeethvalue(DataTable ScensorValueTable) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 390
+   at FLS_Measurement_ToolKit.MainWindow.OnlineImportCsvFileAndDisplayRadialGraph(String filename) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 321 
+2017/50/16 23:50:10,122 INFO  FLS_Measurement_ToolKit.MainWindow [5780] Opening CSV Path... 
+2017/50/16 23:50:20,399 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [5780] ChannelSensorSelect Values 3,rectangular_sensor 
+2017/50/16 23:50:27,886 INFO  FLS_Measurement_ToolKit.MeasurementSelect [5780] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/50/16 23:50:30,136 INFO  FLS_Measurement_ToolKit.GearInfoWindow [5780] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 12, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/53/16 23:53:15,022 INFO  FLS_Measurement_ToolKit.MainWindow [8388] Aplication started... 
+2017/53/16 23:53:18,660 INFO  FLS_Measurement_ToolKit.MainWindow [8388] Opening CSV Path... 
+2017/53/16 23:53:28,901 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [8388] ChannelSensorSelect Values 3,rectangular_sensor 
+2017/53/16 23:53:33,684 INFO  FLS_Measurement_ToolKit.MeasurementSelect [8388] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 250  
+2017/53/16 23:53:45,121 INFO  FLS_Measurement_ToolKit.GearInfoWindow [8388] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 12, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/54/16 23:54:10,417 INFO  FLS_Measurement_ToolKit.MainWindow [8388] Opening CSV Path... 
+2017/54/16 23:54:20,358 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [8388] ChannelSensorSelect Values 3,rectangular_sensor 
+2017/54/16 23:54:25,904 INFO  FLS_Measurement_ToolKit.MeasurementSelect [8388] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 250  
+2017/54/16 23:54:29,003 INFO  FLS_Measurement_ToolKit.GearInfoWindow [8388] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 12, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 

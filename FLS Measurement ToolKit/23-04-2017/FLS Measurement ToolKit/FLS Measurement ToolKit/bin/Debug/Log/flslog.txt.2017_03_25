@@ -1,0 +1,40 @@
+2017/07/25 15:07:56,420 INFO  FLS_Measurement_ToolKit.MainWindow [10640] Aplication started... 
+2017/08/25 15:08:09,473 INFO  FLS_Measurement_ToolKit.MainWindow [10640] Opening CSV Path... 
+2017/08/25 15:08:19,815 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [10640] ChannelSensorSelect Values 2,m12_sensor 
+2017/08/25 15:08:42,336 INFO  FLS_Measurement_ToolKit.MeasurementSelect [10640] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 144  
+2017/09/25 15:09:00,846 INFO  FLS_Measurement_ToolKit.GearInfoWindow [10640] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 456, Noofdrive: 5 ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/09/25 15:09:12,555 ERROR FLS_Measurement_ToolKit.MainWindow [10640] System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FLS_Measurement_ToolKit.MainWindow.GetGearTeethvalue(DataTable ScensorValueTable) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 538
+   at FLS_Measurement_ToolKit.MainWindow.RadialComputingSensorValues(DataTable ScensorValueTable) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 825 
+2017/15/25 15:15:25,113 INFO  FLS_Measurement_ToolKit.MainWindow [9908] Aplication started... 
+2017/39/25 15:39:45,956 INFO  FLS_Measurement_ToolKit.MainWindow [11224] Aplication started... 
+2017/40/25 15:40:20,725 INFO  FLS_Measurement_ToolKit.MainWindow [11224] Opening CSV Path... 
+2017/40/25 15:40:31,410 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [11224] ChannelSensorSelect Values 2,m30_sensor 
+2017/40/25 15:40:41,096 INFO  FLS_Measurement_ToolKit.MeasurementSelect [11224] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 96  
+2017/40/25 15:40:51,293 INFO  FLS_Measurement_ToolKit.GearInfoWindow [11224] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 5456, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/40/25 15:40:57,062 ERROR FLS_Measurement_ToolKit.MainWindow [11224] System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FLS_Measurement_ToolKit.MainWindow.GetGearTeethvalue(DataTable ScensorValueTable) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 538
+   at FLS_Measurement_ToolKit.MainWindow.RadialComputingSensorValues(DataTable ScensorValueTable) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 825 
+2017/10/25 16:10:06,701 INFO  FLS_Measurement_ToolKit.MainWindow [12860] Aplication started... 
+2017/10/25 16:10:13,056 INFO  FLS_Measurement_ToolKit.MainWindow [12860] Opening CSV Path... 
+2017/10/25 16:10:23,572 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [12860] ChannelSensorSelect Values 1,m18_sensor 
+2017/10/25 16:10:31,880 INFO  FLS_Measurement_ToolKit.MeasurementSelect [12860] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 144  
+2017/10/25 16:10:41,906 INFO  FLS_Measurement_ToolKit.GearInfoWindow [12860] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: sdf, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/10/25 16:10:44,326 ERROR FLS_Measurement_ToolKit.MainWindow [12860] System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at FLS_Measurement_ToolKit.MainWindow.GetGearTeethvalue(DataTable ScensorValueTable) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 538
+   at FLS_Measurement_ToolKit.MainWindow.RadialComputingSensorValues(DataTable ScensorValueTable) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 825 
+2017/31/25 16:31:43,300 INFO  FLS_Measurement_ToolKit.MainWindow [6996] Aplication started... 
+2017/31/25 16:31:48,665 INFO  FLS_Measurement_ToolKit.MainWindow [6996] Opening CSV Path... 
+2017/32/25 16:32:00,997 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [6996] ChannelSensorSelect Values 3,m30_sensor 
+2017/32/25 16:32:08,636 INFO  FLS_Measurement_ToolKit.MeasurementSelect [6996] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 96  
+2017/32/25 16:32:18,601 INFO  FLS_Measurement_ToolKit.GearInfoWindow [6996] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: , NoOfteeth: , HelixAngle: , Directionofrotation: 487, Noofdrive:  ,Typeofspringplate: , Klinshellthicknessundergear: , RotaionType: CLOCKWISE 
+2017/38/25 16:38:53,560 INFO  FLS_Measurement_ToolKit.MainWindow [2296] Aplication started... 

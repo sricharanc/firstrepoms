@@ -1,0 +1,68 @@
+2016/36/31 15:36:31,088 INFO  FLS_Measurement_ToolKit.MainWindow [13268] Aplication started... 
+2016/37/31 15:37:03,870 INFO  FLS_Measurement_ToolKit.MainWindow [13268] Opening CSV Path... 
+2016/37/31 15:37:53,717 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [13268] ChannelSensorSelect Values 2,m18_sensor 
+2016/38/31 15:38:07,823 INFO  FLS_Measurement_ToolKit.MeasurementSelect [13268] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 20  
+2016/41/31 15:41:04,040 INFO  FLS_Measurement_ToolKit.MainWindow [13268] Opening CSV Path... 
+2016/41/31 15:41:18,969 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [13268] ChannelSensorSelect Values 2,m18_sensor 
+2016/41/31 15:41:30,875 INFO  FLS_Measurement_ToolKit.MeasurementSelect [13268] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 20  
+2016/41/31 15:41:31,461 ERROR FLS_Measurement_ToolKit.MainWindow [13268] System.IndexOutOfRangeException: Cannot find column 2.
+   at System.Data.DataColumnCollection.get_Item(Int32 index)
+   at System.Data.DataRow.get_Item(Int32 columnIndex)
+   at FLS_Measurement_ToolKit.MainWindow.ConvertingToDistanceValue(DataTable ScensorValueTable) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 721 
+2016/41/31 15:41:31,567 ERROR FLS_Measurement_ToolKit.MainWindow [13268] System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.Enumerable.Average(IEnumerable`1 source)
+   at System.Linq.Enumerable.Average[TSource](IEnumerable`1 source, Func`2 selector)
+   at FLS_Measurement_ToolKit.MainWindow.OnlineImportCsvFileAndDisplayAxialGraph(String filename) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 395 
+2016/45/31 15:45:23,488 INFO  FLS_Measurement_ToolKit.MainWindow [13268] Opening CSV Path... 
+2016/45/31 15:45:36,182 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [13268] ChannelSensorSelect Values 3,m18_sensor 
+2016/45/31 15:45:43,732 INFO  FLS_Measurement_ToolKit.MeasurementSelect [13268] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 20  
+2016/45/31 15:45:44,343 ERROR FLS_Measurement_ToolKit.MainWindow [13268] System.IndexOutOfRangeException: Cannot find column 2.
+   at System.Data.DataColumnCollection.get_Item(Int32 index)
+   at System.Data.DataRow.get_Item(Int32 columnIndex)
+   at FLS_Measurement_ToolKit.MainWindow.ConvertingToDistanceValue(DataTable ScensorValueTable) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 721 
+2016/45/31 15:45:44,423 ERROR FLS_Measurement_ToolKit.MainWindow [13268] System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.Enumerable.Average(IEnumerable`1 source)
+   at System.Linq.Enumerable.Average[TSource](IEnumerable`1 source, Func`2 selector)
+   at FLS_Measurement_ToolKit.MainWindow.OnlineImportCsvFileAndDisplayAxialGraph(String filename) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 395 
+2016/46/31 15:46:56,650 INFO  FLS_Measurement_ToolKit.MainWindow [13268] Opening CSV Path... 
+2016/47/31 15:47:23,924 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [13268] ChannelSensorSelect Values 1,m18_sensor 
+2016/47/31 15:47:36,708 INFO  FLS_Measurement_ToolKit.MeasurementSelect [13268] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 20  
+2016/49/31 15:49:01,515 ERROR FLS_Measurement_ToolKit.MainWindow [13268] System.IndexOutOfRangeException: Cannot find column 2.
+   at System.Data.DataColumnCollection.get_Item(Int32 index)
+   at System.Data.DataRow.get_Item(Int32 columnIndex)
+   at FLS_Measurement_ToolKit.MainWindow.ConvertingToDistanceValue(DataTable ScensorValueTable) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 721 
+2016/49/31 15:49:53,369 ERROR FLS_Measurement_ToolKit.MainWindow [13268] System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.Enumerable.Average(IEnumerable`1 source)
+   at System.Linq.Enumerable.Average[TSource](IEnumerable`1 source, Func`2 selector)
+   at FLS_Measurement_ToolKit.MainWindow.OnlineImportCsvFileAndDisplayAxialGraph(String filename) in D:\FLS\FLS Measurement ToolKit\FLS Measurement ToolKit\FLS Measurement ToolKit\MainWindow.xaml.cs:line 395 
+2016/50/31 15:50:05,418 INFO  FLS_Measurement_ToolKit.MainWindow [13268] Opening CSV Path... 
+2016/50/31 15:50:19,461 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [13268] ChannelSensorSelect Values 2,m18_sensor 
+2016/50/31 15:50:26,948 INFO  FLS_Measurement_ToolKit.MeasurementSelect [13268] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 20  
+2016/31/31 16:31:30,988 INFO  FLS_Measurement_ToolKit.MainWindow [32] Aplication started... 
+2016/33/31 16:33:16,512 INFO  FLS_Measurement_ToolKit.MainWindow [32] Opening CSV Path... 
+2016/33/31 16:33:33,667 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [32] ChannelSensorSelect Values 2,m18_sensor 
+2016/33/31 16:33:44,291 INFO  FLS_Measurement_ToolKit.MeasurementSelect [32] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 20  
+2016/34/31 16:34:07,566 INFO  FLS_Measurement_ToolKit.MainWindow [32] Opening CSV Path... 
+2016/34/31 16:34:17,365 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [32] ChannelSensorSelect Values 2,m18_sensor 
+2016/34/31 16:34:37,385 INFO  FLS_Measurement_ToolKit.MeasurementSelect [32] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 20  
+2016/37/31 16:37:52,243 ERROR FLS_Measurement_ToolKit.MainWindow [32] System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.Enumerable.Average(IEnumerable`1 source)
+   at System.Linq.Enumerable.Average[TSource](IEnumerable`1 source, Func`2 selector)
+   at FLS_Measurement_ToolKit.MainWindow.OnlineImportCsvFileAndDisplayAxialGraph(String filename) 
+2016/37/31 16:37:58,098 INFO  FLS_Measurement_ToolKit.MainWindow [32] Opening CSV Path... 
+2016/38/31 16:38:09,453 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [32] ChannelSensorSelect Values 1,m18_sensor 
+2016/38/31 16:38:37,381 INFO  FLS_Measurement_ToolKit.MeasurementSelect [32] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 20  
+2016/54/31 16:54:41,227 INFO  FLS_Measurement_ToolKit.MainWindow [10824] Aplication started... 
+2016/55/31 16:55:24,771 INFO  FLS_Measurement_ToolKit.MainWindow [10824] Opening CSV Path... 
+2016/55/31 16:55:39,110 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [10824] ChannelSensorSelect Values 2,m18_sensor 
+2016/55/31 16:55:48,360 INFO  FLS_Measurement_ToolKit.MeasurementSelect [10824] MeasurementSelect Values MeasurementType: AXIAL, NoValueToPlot: 20  
+2016/01/31 17:01:21,677 INFO  FLS_Measurement_ToolKit.MainWindow [5964] Aplication started... 
+2016/01/31 17:01:26,080 INFO  FLS_Measurement_ToolKit.MainWindow [5964] Opening CSV Path... 
+2016/01/31 17:01:42,288 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [5964] ChannelSensorSelect Values 2,m18_sensor 
+2016/01/31 17:01:49,583 INFO  FLS_Measurement_ToolKit.MeasurementSelect [5964] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 20  
+2016/09/31 17:09:12,191 INFO  FLS_Measurement_ToolKit.MainWindow [8036] Aplication started... 
+2016/10/31 17:10:05,769 INFO  FLS_Measurement_ToolKit.COMPortSelectionWindow [8036] Com Port connected with Values COM11 
+2016/10/31 17:10:32,908 INFO  FLS_Measurement_ToolKit.ChannelSensorSelect [8036] ChannelSensorSelect Values 2,m18_sensor 
+2016/10/31 17:10:44,809 INFO  FLS_Measurement_ToolKit.MeasurementSelect [8036] MeasurementSelect Values MeasurementType: RADIAL, NoValueToPlot: 40  
+2016/10/31 17:10:57,050 INFO  FLS_Measurement_ToolKit.AddInfoWindow [8036] MeasurementSelect Values CustomerName: 4, OEM: 45, Location: 545, EquipmentTagNo: 454, Kilnsize: 45, NoOfbases: 4 ,ProjectContractNo: 45  
+2016/11/31 17:11:11,877 INFO  FLS_Measurement_ToolKit.GearInfoWindow [8036] MeasurementSelect Values Typeofgear: GEAR, GearOuterDiameter: 54, NoOfteeth: , HelixAngle: 4, Directionofrotation: 54, Noofdrive: 4 ,Typeofspringplate: 4, Klinshellthicknessundergear: 4, RotaionType: CLOCKWISE 

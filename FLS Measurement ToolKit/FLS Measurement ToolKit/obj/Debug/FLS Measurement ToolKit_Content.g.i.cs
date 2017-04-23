@@ -8,6 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("dlls/epplus.dll")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("dlls/htmlrenderer.winforms.dll")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("dlls/log4net.dll")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("dlls/spreadsheetlight.dll")]
 
 
